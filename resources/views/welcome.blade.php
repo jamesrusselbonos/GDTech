@@ -24,7 +24,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>                        
                   </button>
-                  <a id="nav_logo" class="navbar-brand" href="/">adrian and james</a>
+                  <a id="nav_logo" class="navbar-brand" href="/">Company Logo</a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                   <ul id="nav_links" class="nav navbar-nav navbar-right">
@@ -40,7 +40,7 @@
         <div class="jumbotron jumbotron-fluid">
 
         <video autoplay muted loop poster="https://dummyimage.com/900x400/000/fff">    
-            <source src="" data-src="/img/bg.mp4" type="video/mp4">
+            <source src="" data-src="https://www.w3schools.com/howto/rain.mp4" type="video/mp4">
            <!--  <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/webm">
             <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/ogg"> -->
         </video>
