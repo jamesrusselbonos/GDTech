@@ -24,7 +24,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>                        
                   </button>
-                  <a id="nav_logo" class="navbar-brand" href="/">WebSiteName</a>
+                  <a id="nav_logo" class="navbar-brand" href="/">adrian and james</a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                   <ul id="nav_links" class="nav navbar-nav navbar-right">
