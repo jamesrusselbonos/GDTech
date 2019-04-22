@@ -45,7 +45,7 @@
                 <div class="col-md-4">
                   <div class="row">
                     <h4><a style="color: #000;">LED Bulb Types</a></h4>
-                    <h5><a>Home</a> / <a>LED Basics</a> / LED Bulb Types
+                    <h5><a>Home</a> / <a>LED Basics</a> / <a style="color: #125876">LED Bulb Types</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -60,7 +60,7 @@
                 <div class="col-md-4">
                   <div class="row">
                     <h4><a style="color: #000;">Water Proofing</a></h4>
-                    <h5><a>Home</a> / <a>LED Basics</a> / Water Proofing
+                    <h5><a>Home</a> / <a>LED Basics</a> / <a style="color: #125876">Water Proofing</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -75,7 +75,7 @@
                 <div class="col-md-4">
                   <div class="row">
                     <h4><a style="color: #000;">Choosing Your Sign</a></h4>
-                    <h5><a>Home</a> / <a>LED Basics</a> / Choosing Your Sign
+                    <h5><a>Home</a> / <a>LED Basics</a> / <a style="color: #125876">Choosing Your Sign</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -98,7 +98,7 @@
                   <div class="col-sm-12">
                     <div class="row">
                       <h4><a style="color: #000;">Mission Statement</a></h4>
-                      <h5><a>Home</a> / <a>About</a> / Mission Statement
+                      <h5><a>Home</a> / <a>About</a> / <a style="color: #125876">Mission Statement</a>
                     </div>
                     <div class="row">
                       <p>“Uphold steadfast faith, defend highest integrity, maintain exceptional quality, pursue endless advancement. Empower our world with efficiency and versatility.” </p>
@@ -109,7 +109,7 @@
                   <div class="col-sm-12">
                     <div class="row">
                       <h4><a style="color: #000;">Our Team</a></h4>
-                      <h5><a>Home</a> / <a>About</a> / Our Team
+                      <h5><a>Home</a> / <a>About</a> / <a style="color: #125876">Our Team</a>
                     </div>
                     <div class="row">
                       <p>We are Global Dynamic Technology (GDTECK), a U.S. distributor of indoor, outdoor and rental LED signs. We are committed to inspiring the globe through continuous innovation. </p>
