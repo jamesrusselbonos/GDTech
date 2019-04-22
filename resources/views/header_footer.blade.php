@@ -100,7 +100,7 @@
                   <div class="col-sm-12">
                     <div class="row">
                       <h4><a href="/mission_statement" style="color: #000;">Mission Statement</a></h4>
-                      <h5><a>Home</a> / <a>About</a> / <a href="/mission_statement" style="color: #125876">Mission Statement</a>
+                      <h5><a href="/">Home</a> / <a href="/about">About</a> / <a href="/mission_statement" style="color: #125876">Mission Statement</a>
                     </div>
                     <div class="row">
                       <p>“Uphold steadfast faith, defend highest integrity, maintain exceptional quality, pursue endless advancement. Empower our world with efficiency and versatility.” </p>
@@ -110,8 +110,8 @@
                 <div class="col-md-6">
                   <div class="col-sm-12">
                     <div class="row">
-                      <h4><a style="color: #000;">Our Team</a></h4>
-                      <h5><a>Home</a> / <a>About</a> / <a style="color: #125876">Our Team</a>
+                      <h4><a href="our_team" style="color: #000;">Our Team</a></h4>
+                      <h5><a href="/">Home</a> / <a href="/about">About</a> / <a href="/our_team" style="color: #125876">Our Team</a>
                     </div>
                     <div class="row">
                       <p>We are Global Dynamic Technology (GDTECK), a U.S. distributor of indoor, outdoor and rental LED signs. We are committed to inspiring the globe through continuous innovation. </p>

@@ -25,4 +25,7 @@ Route::get('/about', function () {
 Route::get('/mission_statement', function () {
     return view('mission_statement');
 });
+Route::get('/our_team', function () {
+    return view('our_team');
+});
 
