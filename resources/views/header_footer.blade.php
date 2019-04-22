@@ -30,7 +30,7 @@
                 <ul id="nav_links" class="nav navbar-nav navbar-right">
                     <li class=""><a href="/">Home</a></li>
                     <li class="hoverLEDBasics"><a href="/">LED Basics</a></li>
-                    <li class=""><a href="/services">About</a></li>
+                    <li class="hoverabout"><a href="/services">About</a></li>
                     <li class=""><a href="/services">Financing</a></li>
                     <li class=""><a href="/services">FAQ</a></li>
                    <!--  <li class=""><a href="/login">Login</a></li> -->
@@ -43,7 +43,7 @@
               <div class="container">
                 <div class="col-md-4">
                   <div class="row">
-                    <h4>LED Bulb Types</h4>
+                    <h4><a style="color: #000;">LED Bulb Types</a></h4>
                     <h5><a>Home</a> / <a>LED Basics</a> / LED Bulb Types
                   </div>
                   <div class="row">
@@ -58,7 +58,7 @@
                 </div>
                 <div class="col-md-4">
                   <div class="row">
-                    <h4>Water Proofing</h4>
+                    <h4><a style="color: #000;">Water Proofing</a></h4>
                     <h5><a>Home</a> / <a>LED Basics</a> / Water Proofing
                   </div>
                   <div class="row">
@@ -73,7 +73,7 @@
                 </div>
                 <div class="col-md-4">
                   <div class="row">
-                    <h4>Choosing Your Sign</h4>
+                    <h4><a style="color: #000;">Choosing Your Sign</a></h4>
                     <h5><a>Home</a> / <a>LED Basics</a> / Choosing Your Sign
                   </div>
                   <div class="row">
@@ -83,6 +83,35 @@
                     <div class="col-sm-6">
                       <h5>Selecting the Right Sign</h5>
                       <p>Choosing the right sized LED model with proper resolution for your business depends on a few key questions</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="nav_about">
+            <div class="row">
+              <div class="container">
+                <div class="col-md-6">
+                  <div class="col-sm-12">
+                    <div class="row">
+                      <h4><a style="color: #000;">Mission Statement</a></h4>
+                      <h5><a>Home</a> / <a>About</a> / Mission Statement
+                    </div>
+                    <div class="row">
+                      <p>“Uphold steadfast faith, defend highest integrity, maintain exceptional quality, pursue endless advancement. Empower our world with efficiency and versatility.” </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="col-sm-12">
+                    <div class="row">
+                      <h4><a style="color: #000;">Our Team</a></h4>
+                      <h5><a>Home</a> / <a>About</a> / Our Team
+                    </div>
+                    <div class="row">
+                      <p>We are Global Dynamic Technology (GDTECK), a U.S. distributor of indoor, outdoor and rental LED signs. We are committed to inspiring the globe through continuous innovation. </p>
                     </div>
                   </div>
                 </div>
@@ -174,6 +203,30 @@
                       },
                       mouseleave: function() {
                           $(".LEDBasics").stop().hide();
+                      }
+                  })
+              }); // < handler end
+        </script>
+        <script>
+          $(function() { // < handler start
+                  $(".hoverabout").on({
+                      mouseenter: function() {
+                          $(".nav_about").stop().show();
+                      },
+                      mouseleave: function() {
+                          $(".nav_about").stop().hide();
+                      }
+                  })
+              }); // < handler end
+        </script>
+        <script>
+          $(function() { // < handler start
+                  $(".nav_about").on({
+                      mouseenter: function() {
+                          $(".nav_about").stop().show();
+                      },
+                      mouseleave: function() {
+                          $(".nav_about").stop().hide();
                       }
                   })
               }); // < handler end

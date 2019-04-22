@@ -129,7 +129,35 @@
 	display: none;
 
 	width: 100%;
-	transition: linear 2s;
+	transition: 500ms ease;
+  }
+  .LEDBasics a{
+  	color: #FF4D00;
+  	cursor: pointer;
+
+  	text-decoration: none;
+  }
+  .nav_about a{
+  	color: #FF4D00;
+  	cursor: pointer;
+
+  	text-decoration: none;
+  }
+  .nav_about{
+	position: fixed;
+	top: 50px;
+
+	z-index: 100;
+
+	background-color: #fff;
+
+	padding-top: 20px;
+	padding-bottom: 30px;
+
+	display: none;
+
+	width: 100%;
+	transition: 500ms ease;
   }
 .bulb_pic{
 	width: 160px;
