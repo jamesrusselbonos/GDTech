@@ -168,6 +168,34 @@
 	width: 100%;
 	transition: 500ms ease;
   }
+  .faq{
+	position: fixed;
+	top: 55px;
+
+	z-index: 100;
+
+	background-color: #fff;
+
+	padding-top: 30px;
+	padding-bottom: 40px;
+
+	display: none;
+
+	width: 100%;
+	transition: 500ms ease;
+  }
+  .faq h4{
+  	font-weight: bolder;
+  }
+  .faq a{
+  	color: #FF4D00;
+  }
+  .nav_about h4{
+  	font-weight: bolder;
+  }
+  .LEDBasics h4{
+  	font-weight: bolder;
+  }
 .bulb_pic{
 	width: 160px;
 	height: 160px;

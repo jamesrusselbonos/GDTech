@@ -30,12 +30,12 @@
                 <a id="nav_logo" class="navbar-brand" href="/"></a>
               </div>
               <div class="collapse navbar-collapse" id="myNavbar">
-                <ul id="nav_links" class="nav navbar-nav navbar-right">
+                <ul id="nav_links" class="nav navbar-nav navbar-left">
                     <li class=""><a href="/">Home</a></li>
                     <li class="hoverLEDBasics"><a href="/">LED Basics</a></li>
                     <li class="hoverabout"><a href="/about">About</a></li>
                     <li class=""><a href="/financing">Financing</a></li>
-                    <li class=""><a href="/services">FAQ</a></li>
+                    <li class="hoverfaq"><a href="">FAQ</a></li>
                    <!--  <li class=""><a href="/login">Login</a></li> -->
                 </ul>
               </div>
@@ -116,6 +116,38 @@
                     <div class="row">
                       <p>We are Global Dynamic Technology (GDTECK), a U.S. distributor of indoor, outdoor and rental LED signs. We are committed to inspiring the globe through continuous innovation. </p>
                     </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq">
+            <div class="row">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-4">
+                    <h4>What size should i purchase?</h4>
+                    <h5>There are many Factors in deciding the size sign. Please refer to our <a>Choosing your sign page.</a></h5>
+                  </div>
+                  <div class="col-md-4">
+                    <h4>How do i purchase an LED sign?</h4>
+                    <h5>Very simple, Please <a>Click Here</a> to get in touch with one of our Sales Teams Members.</h5>
+                  </div>
+                  <div class="col-md-4">
+                    <h4>How do i see an in person demonstration?</h4>
+                    <h5>Want to take a look at a live LED sign? No problem, contact on our team member by <a>Clicking Here.</a></h5>
+                  </div>
+                </div>
+                <div class="row">
+                  </br>
+                  <div class="col-md-4">
+                    <h4>Do you have financing options?</h4>
+                    <h5>Yes we do, We have a very simple process for approving our customers. Please refer to our <a>Financing Page.</a></h5>
+                  </div>
+                  <div class="col-md-4">
+                    <h4>What is the difference between SMD and DIP?</h4>
+                    <h5>This is a great question. Please refer to our <a>LED Bulbs Page.</a></h5>
                   </div>
                 </div>
               </div>

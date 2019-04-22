@@ -74,6 +74,29 @@ $(window).ready(function(){
         })
     }); // < handler end
 
+    $(function() { // < handler start
+        $(".hoverfaq").on({
+            mouseenter: function() {
+                $(".faq").stop().show();
+            },
+            mouseleave: function() {
+                $(".faq").stop().hide();
+            }
+        })
+    }); // < handler end
+    
+    $(function() { // < handler start
+        $(".faq").on({
+            mouseenter: function() {
+                $(".faq").stop().show();
+            },
+            mouseleave: function() {
+                $(".faq").stop().hide();
+            }
+        })
+    }); // < handler end
+
+
     function deferVideo() {
 
         //defer html5 video loading
