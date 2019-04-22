@@ -126,14 +126,14 @@
 }
 .LEDBasics{
 	position: fixed;
-	top: 60px;
+	top: 55px;
 
 	z-index: 100;
 
 	background-color: #fff;
 
-	padding-top: 20px;
-	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-bottom: 40px;
 
 	display: none;
 
@@ -154,14 +154,14 @@
   }
   .nav_about{
 	position: fixed;
-	top: 60px;
+	top: 55px;
 
 	z-index: 100;
 
 	background-color: #fff;
 
-	padding-top: 20px;
-	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-bottom: 40px;
 
 	display: none;
 
