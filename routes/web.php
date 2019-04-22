@@ -28,4 +28,7 @@ Route::get('/mission_statement', function () {
 Route::get('/our_team', function () {
     return view('our_team');
 });
+Route::get('/financing', function () {
+    return view('financing');
+});
 
