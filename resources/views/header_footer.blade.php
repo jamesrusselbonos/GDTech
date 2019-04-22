@@ -12,6 +12,8 @@
 
         <link rel="stylesheet" type="text/css" href="/css/override.css">
         <link rel="stylesheet" type="text/css" href="/css/adrian_css.css">
+
+        <script src="/js/override.js"></script>
         
     </head>
     <body>
@@ -170,7 +172,7 @@
                 $('.navbar').css('box-shadow','none');
             }
            });
-        </script> -->
+        </script>
         <script >
           $(document).ready(function(){
             $('.navbar').hover(function() {
@@ -247,6 +249,6 @@
 
             }
             window.onload = deferVideo;
-        </script>
+        </script> -->
     </body>
 </html>
