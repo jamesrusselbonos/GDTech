@@ -29,9 +29,63 @@
               <div class="collapse navbar-collapse" id="myNavbar">
                 <ul id="nav_links" class="nav navbar-nav navbar-right">
                     <li class=""><a href="/">Home</a></li>
-                    <li class=""><a href="/services">About Us</a></li>
-                    <li class=""><a href="/login">Login</a></li>
+                    <li class="hoverLEDBasics"><a href="/">LED Basics</a></li>
+                    <li class=""><a href="/services">About</a></li>
+                    <li class=""><a href="/services">Financing</a></li>
+                    <li class=""><a href="/services">FAQ</a></li>
+                   <!--  <li class=""><a href="/login">Login</a></li> -->
                 </ul>
+              </div>
+            </div>
+          </div>
+          <div class="LEDBasics">
+            <div class="row">
+              <div class="container">
+                <div class="col-md-4">
+                  <div class="row">
+                    <h4>LED Bulb Types</h4>
+                    <h5><a>Home</a> / <a>LED Basics</a> / LED Bulb Types
+                  </div>
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <div class="bulb_pic"></div>
+                    </div>
+                    <div class="col-sm-6">
+                      <h5>SMD vs DIP</h5>
+                      <p>There are two main bulb types used to display images on LED screens: DIP and SMD. Here are a few main variations on the key characteristics.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="row">
+                    <h4>Water Proofing</h4>
+                    <h5><a>Home</a> / <a>LED Basics</a> / Water Proofing
+                  </div>
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <div class="waterproofing"></div>
+                    </div>
+                    <div class="col-sm-6">
+                      <h5>Water Proofing</h5>
+                      <p>Our Led panels are all kept at a high standard of IP66 waterproofing. This allows us to have confidence that our panels can easily withstand all weather conditions rain or shine.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="row">
+                    <h4>Choosing Your Sign</h4>
+                    <h5><a>Home</a> / <a>LED Basics</a> / Choosing Your Sign
+                  </div>
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <div class="sign"></div>
+                    </div>
+                    <div class="col-sm-6">
+                      <h5>Selecting the Right Sign</h5>
+                      <p>Choosing the right sized LED model with proper resolution for your business depends on a few key questions</p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -40,6 +94,7 @@
         <div class="body_content"> 
            @yield('content')
         </div>
+
 
         <div class="row">
             <div class="footer">
@@ -98,6 +153,30 @@
                     $('#nav_logo').removeClass('nav_logo_hover');
               });
           });
+        </script>
+        <script>
+          $(function() { // < handler start
+                  $(".hoverLEDBasics").on({
+                      mouseenter: function() {
+                          $(".LEDBasics").stop().show();
+                      },
+                      mouseleave: function() {
+                          $(".LEDBasics").stop().hide();
+                      }
+                  })
+              }); // < handler end
+        </script>
+        <script>
+          $(function() { // < handler start
+                  $(".LEDBasics").on({
+                      mouseenter: function() {
+                          $(".LEDBasics").stop().show();
+                      },
+                      mouseleave: function() {
+                          $(".LEDBasics").stop().hide();
+                      }
+                  })
+              }); // < handler end
         </script>
         <script>
             function deferVideo() {

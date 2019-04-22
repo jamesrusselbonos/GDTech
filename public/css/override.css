@@ -115,3 +115,40 @@
     top: 30%;
   }
 }
+.LEDBasics{
+	position: fixed;
+	top: 50px;
+
+	z-index: 100;
+
+	background-color: #fff;
+
+	padding-top: 20px;
+	padding-bottom: 30px;
+
+	display: none;
+
+	width: 100%;
+	transition: linear 2s;
+  }
+.bulb_pic{
+	width: 160px;
+	height: 160px;
+
+	background-image: url("/img/LED_bulb.jpg");
+	background-size: cover;
+}
+.waterproofing{
+	width: 160px;
+	height: 160px;
+
+	background-image: url("/img/waterproofing.jpg");
+	background-size: cover;
+}
+.sign{
+	width: 160px;
+	height: 160px;
+
+	background-image: url("/img/sign.jpg");
+	background-size: cover;
+}
