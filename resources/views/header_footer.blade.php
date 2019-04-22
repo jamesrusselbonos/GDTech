@@ -33,7 +33,7 @@
                 <ul id="nav_links" class="nav navbar-nav navbar-right">
                     <li class=""><a href="/">Home</a></li>
                     <li class="hoverLEDBasics"><a href="/">LED Basics</a></li>
-                    <li class="hoverabout"><a href="/services">About</a></li>
+                    <li class="hoverabout"><a href="/about">About</a></li>
                     <li class=""><a href="/services">Financing</a></li>
                     <li class=""><a href="/services">FAQ</a></li>
                    <!--  <li class=""><a href="/login">Login</a></li> -->
