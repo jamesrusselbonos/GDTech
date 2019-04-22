@@ -29,7 +29,7 @@
               <div class="collapse navbar-collapse" id="myNavbar">
                 <ul id="nav_links" class="nav navbar-nav navbar-right">
                     <li class=""><a href="/">Home</a></li>
-                    <li class=""><a href="/services">Services</a></li>
+                    <li class=""><a href="/services">About Us</a></li>
                     <li class=""><a href="/login">Login</a></li>
                 </ul>
               </div>
