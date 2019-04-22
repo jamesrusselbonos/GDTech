@@ -6,6 +6,16 @@
 	background-attachment: fixed;
 	color: #fff;
 	}
+	.content_12{
+	height: 500px;
+	
+	padding-top: 50px;
+	text-align: center;
+	background-image: url("/img/analysis-banking-businesswoman-1451448.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	color: #fff;
+	}
 
 	.button {
   display: inline-block;
