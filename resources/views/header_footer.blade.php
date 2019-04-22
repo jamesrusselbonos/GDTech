@@ -168,24 +168,70 @@
         <div class="row">
             <div class="footer">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <h4>Company Logo</h4>
-                            <p>Company Name</p>
-                            <p>ipsum. Fusce nec sollicitudin massa. Ut sed quam vehicula, euismod quam nec, tempus tortor. Cras euismod, elit sit amet pretium consectetur, lacus nibh pellentesque sem, vitae interdum velit est vel enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <div id="footer_content" class="row">
+                        <div class="col-md-3">
+                            <div style="margin-bottom: 20px;" class="row">
+                               <a id="nav_logo" class="navbar-brand" href="/"></a></br>
+                            </div>
+                            <div class="row">
+                              <p>GDTech USA</p>
+                            </div>
                         </div>
-                        <div class="col-md-4">
-                            <h4>1914 translation by H. Rackham</h4>
-                            <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man</p>
+                        <div style="padding-left: 30px;" class="col-md-3">
+                            <h4>LED Basics</h4>
+                            <ul>
+                              <li><a href="">LED Bulb Types</a></li>
+                              <li><a href="">Water Proofing</a></li>
+                              <li><a href="">Choosing your sign</a></li>
+                            </ul>
                         </div>
-                        <div class="col-md-4">
-                            <h4>1914 translation by H. Rackham</h4>
-                            <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man</p>
+                        <div style="padding-left: 30px;" class="col-md-3">
+                            <h4>About</h4>
+                            <ul>
+                              <li><a href="">Mission Statement</a></li>
+                              <li><a href="">Our Team</a></li>
+                            
+                            </ul>
+                        </div>
+                        <div style="padding-left: 30px;" class="col-md-3">
+                            <h4>GDTEK</h4>
+                            <ul>
+                              <div class="row">
+                                <div class="col-xs-2">
+                                  <i class="fa fa-map-marker"></i>
+                                </div>
+                                <div class="col-xs-10">
+                                  <p>1855 Hawthorne Ave NE Salem, Oregon 97301</p>
+                                </div>
+                              </div>
+                              <div class="row">   
+                                <div class="col-xs-2">
+                                  <i class="fa fa-phone"></i>
+                                </div>
+                                <div class="col-xs-10">
+                                  <p>(503) 400-5607</p>
+                                </div>
+                              </div>
+                             
+                            </ul>
                         </div>
                     </div>
+          
                     <div class="row">
-                         <div class="col-md-12">
-                             <p>Copyright © 2018 -2019 Sample Company Inc.</p>
+                         <div style="padding-top: 20px; text-align: center;" class="col-md-12">
+                             <div id="social_media" class="row">
+                               <ul>
+                                 <li><a href="#" class="fa fa-facebook"></a></li>
+                                 <li><a href="#" class="fa fa-twitter"></a></li>
+                                 <li><a href="#" class="fa fa-google"></a></li>
+                                 <li><a href="#" class="fa fa-instagram"></a></li>
+                                 <li><a href="#" class="fa fa-linkedin"></a></li>
+                                 <li><a href="#" class="fa fa-youtube"></a></li>
+                               </ul>
+                             </div>
+                             <div class="row">
+                               <p style="color: #5f5f5f;">Copyright © 2018 -2019 Sample Company Inc.</p>
+                             </div>
                          </div>
                     </div>
                 </div>
