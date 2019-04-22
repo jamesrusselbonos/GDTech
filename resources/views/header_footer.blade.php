@@ -99,8 +99,8 @@
                 <div class="col-md-6">
                   <div class="col-sm-12">
                     <div class="row">
-                      <h4><a style="color: #000;">Mission Statement</a></h4>
-                      <h5><a>Home</a> / <a>About</a> / <a style="color: #125876">Mission Statement</a>
+                      <h4><a href="/mission_statement" style="color: #000;">Mission Statement</a></h4>
+                      <h5><a>Home</a> / <a>About</a> / <a href="/mission_statement" style="color: #125876">Mission Statement</a>
                     </div>
                     <div class="row">
                       <p>“Uphold steadfast faith, defend highest integrity, maintain exceptional quality, pursue endless advancement. Empower our world with efficiency and versatility.” </p>

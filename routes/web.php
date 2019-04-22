@@ -22,4 +22,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/about', function () {
     return view('services');
 });
+Route::get('/mission_statement', function () {
+    return view('mission_statement');
+});
 
