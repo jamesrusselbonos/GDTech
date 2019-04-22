@@ -24,7 +24,7 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>                        
                 </button>
-                <a id="nav_logo" class="navbar-brand" href="/">Company Logo</a>
+                <a id="nav_logo" class="navbar-brand" href="/"></a>
               </div>
               <div class="collapse navbar-collapse" id="myNavbar">
                 <ul id="nav_links" class="nav navbar-nav navbar-right">
@@ -68,7 +68,7 @@
             </div>
         </div>
 
-        <script>
+        <!-- <script>
            $(window).scroll(function(){
             if ($(this).scrollTop() > 50) {
                 $('.navbar').css('background-color','#fff');
@@ -85,6 +85,19 @@
                 $('.navbar').css('box-shadow','none');
             }
            });
+        </script> -->
+        <script >
+          $(document).ready(function(){
+            $('.navbar').hover(function() {
+                    $('.navbar').addClass('navbar_hover');
+                    $('#nav_links a').addClass('hover_links');
+                    $('#nav_logo').addClass('nav_logo_hover');
+              }, function() {
+                    $('.navbar').removeClass('navbar_hover');
+                    $('#nav_links a').removeClass('hover_links');
+                    $('#nav_logo').removeClass('nav_logo_hover');
+              });
+          });
         </script>
         <script>
             function deferVideo() {

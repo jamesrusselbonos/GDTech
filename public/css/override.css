@@ -1,5 +1,5 @@
 .navbar{
-	position: fixed;
+	position: absolute;
 	width: 100%;
 
 	background-color: transparent;
@@ -7,12 +7,29 @@
 	border: none;
 
 	z-index: 100;
+
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.navbar_hover{
+	background-color: #fff;
+	color: #000;
 }
 #nav_links a{
 	color: #fff;
 }
 #nav_logo{
-	color: #fff;
+	width: 200px;
+	background-image: url("/img/gdtek-logo-white.png");
+	background-size: cover;
+}
+.nav_logo_hover{
+	width: 200px !important;
+	background-image: url("/img/logo_black.png") !important;
+	background-size: cover !important;
+}
+.hover_links{
+	color: #000 !important;
 }
 .jumbotron {
   position: relative;
