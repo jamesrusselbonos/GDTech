@@ -43,6 +43,7 @@
                    <!--  <li class=""><a href="/login">Login</a></li> -->
                 </ul>
                 <ul id="nav_links" class="nav navbar-nav navbar-right">
+                   <li class="hoverfaq"><a href="">Blog</a></li>
                    <li class=""><a href="/login"><i style="font-size: 18px;" class="fa fa-sign-in"></i> Login</a></li>
                 </ul>
               </div>
@@ -168,6 +169,19 @@
 
 
         <div class="row">
+          <div class="call_to_actions">
+            <div class="container">
+              <div class="col-md-9">
+                <h4>Get more information about our LED signs and click the button to inquire now</h4>
+              </div>
+              <div class="col-md-3">
+                <a class="btn btn-primary btn-lg" href="#" role="button">Contact Us</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
             <div class="footer">
                 <div class="container">
                     <div id="footer_content" class="row">
@@ -238,7 +252,6 @@
                 </div>
             </div>
         </div>
-
         <!-- <script>
            $(window).scroll(function(){
             if ($(this).scrollTop() > 50) {
