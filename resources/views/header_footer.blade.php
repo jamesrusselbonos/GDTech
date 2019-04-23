@@ -42,10 +42,10 @@
                     <li class="hoverfaq"><a href="">FAQ</a></li>
                    <!--  <li class=""><a href="/login">Login</a></li> -->
                 </ul>
-                <ul id="nav_links" class="nav navbar-nav navbar-right">
+              <!--   <ul id="nav_links" class="nav navbar-nav navbar-right">
                    <li class="hoverfaq"><a href="">Blog</a></li>
                    <li class=""><a href="/login"><i style="font-size: 18px;" class="fa fa-sign-in"></i> Login</a></li>
-                </ul>
+                </ul> -->
               </div>
             </div>
           </div>
