@@ -20,7 +20,7 @@
          <!-- /.container -->
        </div>
        <!-- /.jumbotron -->
-       
+
    <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="container">
@@ -39,14 +39,26 @@
                    <div class="carousel-inner">
                      <div class="item active">
                        <img src="/img/ball-bling-blur-568948.jpg" alt="Los Angeles">
+                       <div class="carousel-caption">
+                          <h3>Los Angeles</h3>
+                          <p>LA is always so much fun!</p>
+                        </div>
                      </div>
 
                      <div class="item">
                        <img src="/img/brass-bulb-classic-1112598.jpg" alt="Chicago">
+                       <div class="carousel-caption">
+                          <h3>Los Angeles</h3>
+                          <p>LA is always so much fun!</p>
+                        </div>
                      </div>
 
                      <div class="item">
                        <img src="/img/bright-bulb-close-up-266688.jpg" alt="New York">
+                       <div class="carousel-caption">
+                          <h3>Los Angeles</h3>
+                          <p>LA is always so much fun!</p>
+                        </div>
                      </div>
                    </div>
 
