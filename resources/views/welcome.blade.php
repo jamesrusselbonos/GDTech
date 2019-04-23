@@ -147,9 +147,36 @@
                <div class="content_2">
                    <div class="container">
                        <div class="col-lg-12">
-                           <h2>Inspiring the Globe with GDTEK Technology</h2>
-                           <p>We are committed to inspiring the globe through continuous innovation. Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. Enjoy beautiful, vivid, clearly displayed images on our LED panels that last longer and are more reliable.</p>
-                            <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a>
+                          <div class="row">
+                           <div class="col-lg-12">
+                             <h2>INDUSTRIES THAT USE OUR LED PRODUCTS</h2>
+                             <p>Many of the following industries have benefited from the use of LED Screen technology. Click on a Category to see how it can help you with your business needs.</p>
+                           </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-lg-12">
+                              <!-- Swiper -->
+                                <div class="swiper-container">
+                                  <div class="swiper-wrapper">
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Entertainment_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Entertainment</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/church_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Religious</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Hospitality_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Hospitality</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/FoodServices_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Food Services</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Education_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Education</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Automotive_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Automotive</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/HealthCare_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Health Care Services</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/ProfessionalServices_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Professional Services</div></div>
+                                    <!-- <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/9)"></div>
+                                    <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/10)"></div> -->
+                                  </div>
+                                  <!-- Add Pagination -->
+                                  <div class="swiper-pagination"></div>
+                                  <!-- Add Arrows -->
+                                      <div class="swiper-button-next"></div>
+                                      <div class="swiper-button-prev"></div>
+                                </div>
+                            </div>
+                          </div>
                        </div>
                    </div>
                </div>

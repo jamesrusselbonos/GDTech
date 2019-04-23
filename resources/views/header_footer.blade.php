@@ -10,6 +10,12 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 
+        <link rel="stylesheet" type="text/css" href="/css/swiper.css">
+        <link rel="stylesheet" type="text/css" href="/css/swiper.min.css">
+
+         <script src="/js/swiper.js"></script>
+        <script src="/js/swiper.min.js"></script>
+
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
         <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
@@ -18,7 +24,7 @@
         <link rel="stylesheet" type="text/css" href="/css/adrian_css.css">
 
         <script src="/js/override.js"></script>
-        
+
     </head>
     <body style="font-family: poppins;">
 
@@ -69,8 +75,8 @@
                 </div>
                 <div class="col-md-4">
                   <div class="row">
-                    <h4><a style="color: #000;">Water Proofing</a></h4>
-                    <h5><a>Home</a> / <a>LED Basics</a> / <a style="color: #125876">Water Proofing</a>
+                    <h4><a href="/water_proofing" style="color: #000;">Water Proofing</a></h4>
+                    <h5><a href="/water_proofing">Home</a> / <a>LED Basics</a> / <a href="/water_proofing" style="color: #125876">Water Proofing</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -358,6 +364,28 @@
                  interval: 6000
                })
              });
+        </script>
+        <script >
+          var swiper = new Swiper('.swiper-container', {
+                effect: 'coverflow',
+                grabCursor: true,
+                centeredSlides: true,
+                slidesPerView: 'auto',
+                coverflowEffect: {
+                  rotate: 50,
+                  stretch: 0,
+                  depth: 100,
+                  modifier: 1,
+                  slideShadows : true,
+                },
+                pagination: {
+                  el: '.swiper-pagination',
+                },
+                navigation: {
+                        nextEl: '.swiper-button-next',
+                        prevEl: '.swiper-button-prev',
+                      },
+              });
         </script>
     </body>
 </html>

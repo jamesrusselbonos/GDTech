@@ -397,9 +397,6 @@
 	background-image: url("/img/ball-bling-blur-568948.jpg");
 	background-size: cover;
 }
-.image1:hover{
-	box-shadow: 0px 10px 20px #282828;
-}
 .image2_wrapper{
 	height: 290px;
     overflow: hidden; 
@@ -648,3 +645,19 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 
 	margin-top: 20px;
   }
+  .swiper-container {
+      width: 100%;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width: 300px;
+      height: 300px;
+
+      padding-top: 150px;
+
+      font-size: 20px;
+      color: #fff;
+    }
