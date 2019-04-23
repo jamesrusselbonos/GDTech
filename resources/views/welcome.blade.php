@@ -11,10 +11,9 @@
 
       <div class="container text-white">
 
-        <h1 class="display-4">Hello, world!</h1>
-        <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-        <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-        <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Learn more</a>
+        <h1 class="display-4">Inspiring the Globe with GDTEK Technology</h1>
+        <p class="lead">We are committed to inspiring the globe through continuous innovation. Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. Enjoy beautiful, vivid, clearly displayed images on our LED panels that last longer and are more reliable.</p>
+        <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a>
 
       </div>
       <!-- /.container -->
