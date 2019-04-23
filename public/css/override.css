@@ -55,9 +55,9 @@
   background-color:black;
 
   color: #fff;
-  height: 800px;
+  height: 700px;
   padding-top: 400px;
-  padding-bottom: 500px;
+  padding-bottom: 100px;
 
   width: 100%;
 }
@@ -328,7 +328,7 @@
  	padding-left: 10px;
 
  	border: solid 1px #5f5f5f ;
- 	/*border-radius: 30px;*/
+ 	border-radius: 30px;
 
  }
  .t_textarea{
@@ -340,7 +340,7 @@
  	padding-top: 10px;
 
  	border: solid 1px #5f5f5f ;
- 	/*border-radius: 30px;*/
+ 	border-radius: 30px;
  }
  ./*c_form{
  	text-align: center;
@@ -397,37 +397,83 @@
 	background-image: url("/img/ball-bling-blur-568948.jpg");
 	background-size: cover;
 }
-.image2{
-	width: 100%;
-	height: 300px;
+.image1:hover{
+	box-shadow: 0px 10px 20px #282828;
+}
+.image2_wrapper{
+	height: 290px;
+    overflow: hidden; 
+
+     margin-bottom: 20px;
+
+/*	padding-left: 20px;
+	padding-right: 20px;*/
+
+	/*padding-top: 160px;*/
 
 	background-color: blue;
+}
+.image3_wrapper{
+	height: 290px;
+    overflow: hidden; 
+
+     margin-bottom: 20px;
+
+/*	padding-left: 20px;
+	padding-right: 20px;*/
+
+	/*padding-top: 160px;*/
+
+	background-color: blue;
+}
+.image2{
+	width: 100% !important;
+	height: 100% !important;
 
 	background-image: url("/img/bedroom-bulb-furniture-545048.jpg");
 	background-size: cover;
 
-	margin-bottom: 20px;
-
-	padding-left: 20px;
-	padding-right: 20px;
-
-	padding-top: 160px;
+	 transition: all 0.5s ease;
 }
 .image3{
-	width: 100%;
-	height: 300px;
-
-	background-color: blue;
+	width: 100% !important;
+	height: 100% !important;
 
 	background-image: url("/img/blurred-background-coffee-cup-computer-908284.jpg");
 	background-size: cover;
 
-	margin-bottom: 20px;
+	 transition: all 0.5s ease;
+}
+.image2_wrapper:hover .image2,
+.image2_wrapper:focus .image2 {
+  transform: scale(1.1);
+}
+.image2:hover span,
+.image2:focus span {
+ 	/*padding: 28% 30px 0px 30px;*/
+ 	  padding: 30% 40px 0px 40px;
+ 	  display: block;
+}
+.image2 span{
 
-	padding-left: 20px;
-	padding-right: 20px;
+	  padding: 30% 40px 0px 40px;
+	  position: absolute;
+	  /*display: none;*/
+}
+.image3_wrapper:hover .image3,
+.image3_wrapper:focus .image3 {
+  transform: scale(1.1);
+}
+.image3:hover span,
+.image3:focus span {
+ 	/*padding: 28% 30px 0px 30px;*/
+ 	  padding: 30% 40px 0px 40px;
+ 	  display: block;
+}
+.image3 span{
 
-	padding-top: 160px;
+	   padding: 30% 40px 0px 40px;
+	  position: absolute;
 }
 .image4{
 	width: 100%;
@@ -443,7 +489,17 @@
 	padding-left: 20px;
 	padding-right: 20px;
 
-	padding-top: 90px;
+	padding-top: 80px;
+}
+.image4:hover{
+	padding-top: 60px;
+
+	transition: padding-top 0.5s ease;
+}
+.image5:hover{
+	padding-top: 60px;
+
+	transition: padding-top 0.5s ease;
 }
 .image5{
 	width: 100%;
@@ -457,7 +513,7 @@
 	padding-left: 20px;
 	padding-right: 20px;
 
-	padding-top: 90px;
+	padding-top: 80px;
 }
 .carousel-inner img{
 	height: 100%;
@@ -465,3 +521,130 @@
 .carousel-caption{
 	margin-top: 200px;
 }
+/* Carousel Fading slide */
+.carousel-fade .carousel-inner { background: #000; }
+.carousel-fade .carousel-control { z-index: 2; }  
+.carousel-fade .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+  }
+
+  .carousel-fade .next.left,
+  .carousel-fade .prev.right,
+  .carousel-fade .item.active { opacity: 1; }
+
+  .carousel-fade .active.left,
+  .carousel-fade .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+    }
+
+
+/* Safari Fix */
+@media all and (transform-3d), (-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+}
+
+
+
+
+/* Carousel Control custom */
+.carousel-control .control-icon {
+  font-size: 48px;
+  height: 30px;
+  margin-top: -15px;
+  width: 30px;
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  z-index: 5;
+  }
+  .carousel-control .prev { margin-left:  -15px;  left: 50%; } /* Prev */
+  .carousel-control .next { margin-right: -15px; right: 50%; } /* Next */
+
+
+/* Removing BS background */
+.carousel .control-box { opacity: 0; }
+a.carousel-control.left  { left: 0; background: none; border: 0;}
+a.carousel-control.right { right: 0; background: none; border: 0;}
+
+
+/* Animation */
+.control-box, a.carousel-control, .carousel-indicators li {
+  -webkit-transition: all 250ms ease;
+  -moz-transition: all 250ms ease;
+  -ms-transition: all 250ms ease;
+  -o-transition: all 250ms ease;
+  transition: all 250ms ease;   
+  /* hardware acceleration causes Bootstrap carousel controlbox margin error in webkit */
+  /* Assigning animation to indicator li will make slides flicker */
+  } 
+
+
+/* Hover animation */
+.carousel:hover .control-box { opacity: 1; }
+.carousel:hover a.carousel-control.left { left: 15px; }
+.carousel:hover a.carousel-control.right { right: 15px; }  
+
+
+/* Carouse Indicator */
+.carousel-indicators li.active,
+.carousel-indicators li { border: 0; }
+
+.carousel-indicators li {
+  background: #666;
+  margin: 0 3px;
+  width: 12px;
+  height: 12px;
+  }
+
+.carousel-indicators li.active {
+  background: #fff;
+  margin: 0 3px;
+  }
+  .content_2{
+  	padding-top: 30px;
+  	padding-bottom: 30px;
+
+  	text-align:  center;
+  }
+  .content_2 a{
+  	background-color: #FF4D00;
+	border: none;
+	border-radius: 30px;
+
+	width: auto;
+
+	margin-top: 20px;
+  }
+  .content_2 a:hover{
+  	background-color: #FF4D00;
+	border: none;
+	border-radius: 30px;
+
+	width: auto;
+
+	margin-top: 20px;
+  }

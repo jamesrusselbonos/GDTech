@@ -12,28 +12,39 @@
 
          <div class="container text-white">
 
-           <h1 class="display-4">Inspiring the Globe with GDTEK Technology</h1>
-           <p class="lead">We are committed to inspiring the globe through continuous innovation. Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. Enjoy beautiful, vivid, clearly displayed images on our LED panels that last longer and are more reliable.</p>
-           <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a>
+           <h1 class="display-4">Global Dynamic Technology</h1>
+           <p class="lead">Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. </p>
+          <!--  <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a> -->
 
          </div>
          <!-- /.container -->
        </div>
        <!-- /.jumbotron -->
+    <div class="row">
+             <div class="content_2">
+                 <div class="container">
+                     <div class="col-lg-12">
+                         <h2>Inspiring the Globe with GDTEK Technology</h2>
+                         <p>We are committed to inspiring the globe through continuous innovation. Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. Enjoy beautiful, vivid, clearly displayed images on our LED panels that last longer and are more reliable.</p>
+                          <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a>
+                     </div>
+                 </div>
+             </div>
+        </div>
 
-   <div class="row">
+   <div style="padding-top: 50px;" class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="container">
            <div class="row">
              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                 <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
                    <!-- Indicators -->
-                   <ol class="carousel-indicators">
+                   <!-- <ol class="carousel-indicators">
                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                      <li data-target="#myCarousel" data-slide-to="1"></li>
                      <li data-target="#myCarousel" data-slide-to="2"></li>
-                   </ol>
+                   </ol> -->
 
                    <!-- Wrapper for slides -->
                    <div class="carousel-inner">
@@ -78,18 +89,26 @@
               <div class="col-lg-12">
                   <div class="row">
                     <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
-                      <div class="image2">
-                        <h3>Square 2></h3>
-                        <p>Get more information about our LED signs and click the button to inquire now</p>
-                      </div>
+                     <div class="image2_wrapper">
+                       <div class="image2">
+                          <span>
+                              <h3>Square 2</h3>
+                              <p>Get more information about our LED signs and click the button to inquire now</p>
+                          </span>
+                        </div>
+                     </div>
                     </div>
                   </div>
                   <div class="row">
                      <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
-                      <div class="image3">
-                        <h3>Square 3></h3>
-                        <p>Get more information about our LED signs and click the button to inquire now</p>
-                      </div>
+                     <div class="image3_wrapper">
+                       <div class="image3">
+                         <span>
+                              <h3>Square 3</h3>
+                              <p>Get more information about our LED signs and click the button to inquire now</p>
+                          </span>
+                       </div>
+                     </div>
                     </div>
                </div>
               </div>
@@ -102,25 +121,39 @@
       <div class="row">
         <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> -->
           <div class="container">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
-                <div class="image4">
-                  <h3>Square 4></h3>
-                  <p>Get more information about our LED signs and click the button to inquire now</p>
+            <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
+                  <div class="image4">
+                    <h3>Square 4></h3>
+                    <p>Get more information about our LED signs and click the button to inquire now</p>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
-                <div class="image5">
-                  <h3>Square 5></h3>
-                  <p>Get more information about our LED signs and click the button to inquire now</p>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
+                  <div class="image5">
+                    <h3>Square 5></h3>
+                    <p>Get more information about our LED signs and click the button to inquire now</p>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         <!-- </div> -->
       </div>
+
+      <div class="row">
+               <div class="content_2">
+                   <div class="container">
+                       <div class="col-lg-12">
+                           <h2>Inspiring the Globe with GDTEK Technology</h2>
+                           <p>We are committed to inspiring the globe through continuous innovation. Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. Enjoy beautiful, vivid, clearly displayed images on our LED panels that last longer and are more reliable.</p>
+                            <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a>
+                       </div>
+                   </div>
+               </div>
+          </div>
 
     <div class="contact_form">
         <div class="row">

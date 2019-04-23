@@ -351,5 +351,13 @@
             }
             window.onload = deferVideo;
         </script> -->
+        <script>
+           // Carousel Auto-Cycle
+             $(document).ready(function() {
+               $('.carousel').carousel({
+                 interval: 6000
+               })
+             });
+        </script>
     </body>
 </html>
