@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
         <title>GDTEK - Inspiring the Globe with GDTEL LED Technology</title>
 
@@ -169,88 +169,92 @@
 
 
         <div class="row">
-          <div class="call_to_actions">
-            <div class="container">
-              <div class="col-md-9">
-                <h4>Get more information about our LED signs and click the button to inquire now</h4>
-              </div>
-              <div class="col-md-3">
-                <a class="btn btn-primary btn-lg" href="#" role="button">Contact Us</a>
-              </div>
-            </div>
-          </div>
+         <div class="col-lg-12">
+           <div class="call_to_actions">
+             <div class="container">
+               <div class="col-md-9">
+                 <h4>Get more information about our LED signs and click the button to inquire now</h4>
+               </div>
+               <div class="col-md-3">
+                 <a class="btn btn-primary btn-lg" href="#" role="button">Contact Us</a>
+               </div>
+             </div>
+           </div>
+         </div>
         </div>
 
         <div class="row">
-            <div class="footer">
-                <div class="container">
-                    <div id="footer_content" class="row">
-                        <div class="col-md-3">
-                            <div style="margin-bottom: 20px;" class="row">
-                               <a id="nav_logo" class="navbar-brand" href="/"></a></br>
-                            </div>
-                            <div class="row">
-                              <p>GDTech USA</p>
-                            </div>
-                        </div>
-                        <div style="padding-left: 30px;" class="col-md-3">
-                            <h4>LED Basics</h4>
-                            <ul>
-                              <li><a href="">LED Bulb Types</a></li>
-                              <li><a href="">Water Proofing</a></li>
-                              <li><a href="">Choosing your sign</a></li>
-                            </ul>
-                        </div>
-                        <div style="padding-left: 30px;" class="col-md-3">
-                            <h4>About</h4>
-                            <ul>
-                              <li><a href="">Mission Statement</a></li>
-                              <li><a href="">Our Team</a></li>
-                            
-                            </ul>
-                        </div>
-                        <div style="padding-left: 30px;" class="col-md-3">
-                            <h4>GDTEK</h4>
-                            <ul>
-                              <div class="row">
-                                <div class="col-xs-2">
-                                  <i class="fa fa-map-marker"></i>
-                                </div>
-                                <div class="col-xs-10">
-                                  <p>1855 Hawthorne Ave NE Salem, Oregon 97301</p>
-                                </div>
-                              </div>
-                              <div class="row">   
-                                <div class="col-xs-2">
-                                  <i class="fa fa-phone"></i>
-                                </div>
-                                <div class="col-xs-10">
-                                  <p>(503) 400-5607</p>
-                                </div>
-                              </div>
-                             
-                            </ul>
-                        </div>
-                    </div>
-          
-                    <div class="row">
-                         <div style="padding-top: 20px; text-align: center;" class="col-md-12">
-                             <div id="social_media" class="row">
-                               <ul>
-                                 <li><a id="social_icon" href="https://www.facebook.com/Global-Dynamic-Technology-LLC-563053140792049/" class="fa fa-facebook"></a></li>
-                                
-                                 <li><a id="social_icon" href="https://www.instagram.com/gdtechusa/" class="fa fa-instagram"></a></li>
-                                 <li><a id="social_icon" href="https://www.linkedin.com/company/global-dynamic-technology-llc/about/" class="fa fa-linkedin"></a></li>
-                                 <li><a id="social_icon" href="https://www.youtube.com/channel/UCgGTBloratRYwLDWiP_iBLg?disable_polymer=true" class="fa fa-youtube"></a></li>
-                               </ul>
+           <div class="col-lg-12">
+             <div class="footer">
+                 <div class="container">
+                     <div id="footer_content" class="row">
+                         <div class="col-md-3">
+                             <div style="margin-bottom: 20px;" class="row">
+                                <a id="nav_logo" class="navbar-brand" href="/"></a></br>
                              </div>
                              <div class="row">
-                               <p style="color: #5f5f5f;">Copyright 2019 Global Dynamic Technology LLC. All Rights Reserved.</p>
+                               <p>GDTech USA</p>
                              </div>
                          </div>
-                    </div>
-                </div>
-            </div>
+                         <div class="col-md-3">
+                             <h4>LED Basics</h4>
+                             <ul>
+                               <li><a href="">LED Bulb Types</a></li>
+                               <li><a href="">Water Proofing</a></li>
+                               <li><a href="">Choosing your sign</a></li>
+                             </ul>
+                         </div>
+                         <div  class="col-md-3">
+                             <h4>About</h4>
+                             <ul>
+                               <li><a href="">Mission Statement</a></li>
+                               <li><a href="">Our Team</a></li>
+                             
+                             </ul>
+                         </div>
+                         <div class="col-md-3">
+                             <h4>GDTEK</h4>
+                             <ul>
+                               <div class="row">
+                                 <div class="col-xs-2">
+                                   <i class="fa fa-map-marker"></i>
+                                 </div>
+                                 <div  style="margin-left: -20px;" class="col-xs-10">
+                                   <p>1855 Hawthorne Ave NE Salem, Oregon 97301</p>
+                                 </div>
+                               </div>
+                               <div class="row">   
+                                 <div class="col-xs-2">
+                                   <i class="fa fa-phone"></i>
+                                 </div>
+                                 <div style="margin-left: -20px;" class="col-xs-10">
+                                   <p>(503) 400-5607</p>
+                                 </div>
+                               </div>
+                              
+                             </ul>
+                         </div>
+                     </div>
+             
+                     <div class="row">
+                          <div style="padding-top: 20px; text-align: center;" class="col-md-12">
+                              <div id="social_media" class="row">
+                                <ul>
+                                  <li><a id="social_icon" href="https://www.facebook.com/Global-Dynamic-Technology-LLC-563053140792049/" class="fa fa-facebook"></a></li>
+                                 
+                                  <li><a id="social_icon" href="https://www.instagram.com/gdtechusa/" class="fa fa-instagram"></a></li>
+                                  <li><a id="social_icon" href="https://www.linkedin.com/company/global-dynamic-technology-llc/about/" class="fa fa-linkedin"></a></li>
+                                  <li><a id="social_icon" href="https://www.youtube.com/channel/UCgGTBloratRYwLDWiP_iBLg?disable_polymer=true" class="fa fa-youtube"></a></li>
+                                </ul>
+                              </div>
+                              <div class="row">
+                                <p style="color: #5f5f5f;">Copyright 2019 Global Dynamic Technology LLC. All Rights Reserved.</p>
+                              </div>
+                          </div>
+                     </div>
+                 </div>
+             </div>
+           </div>
         </div>
         <!-- <script>
            $(window).scroll(function(){
