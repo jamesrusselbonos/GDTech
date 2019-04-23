@@ -81,8 +81,8 @@
                 </div>
                 <div class="col-md-4">
                   <div class="row">
-                    <h4><a style="color: #000;">Choosing Your Sign</a></h4>
-                    <h5><a>Home</a> / <a>LED Basics</a> / <a style="color: #125876">Choosing Your Sign</a>
+                    <h4><a href="/choosing_your_sign" style="color: #000;">Choosing Your Sign</a></h4>
+                    <h5><a>Home</a> / <a>LED Basics</a> / <a href="/choosing_your_sign" style="color: #125876">Choosing Your Sign</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -133,7 +133,7 @@
                 <div class="row">
                   <div class="col-md-4">
                     <h4>What size should i purchase?</h4>
-                    <h5>There are many Factors in deciding the size sign. Please refer to our <a>Choosing your sign page.</a></h5>
+                    <h5>There are many Factors in deciding the size sign. Please refer to our <a href="/choosing_your_sign">Choosing your sign page.</a></h5>
                   </div>
                   <div class="col-md-4">
                     <h4>How do i purchase an LED sign?</h4>
@@ -148,7 +148,7 @@
                   </br>
                   <div class="col-md-4">
                     <h4>Do you have financing options?</h4>
-                    <h5>Yes we do, We have a very simple process for approving our customers. Please refer to our <a>Financing Page.</a></h5>
+                    <h5>Yes we do, We have a very simple process for approving our customers. Please refer to our <a href="/financing">Financing Page.</a></h5>
                   </div>
                   <div class="col-md-4">
                     <h4>What is the difference between SMD and DIP?</h4>

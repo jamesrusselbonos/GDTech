@@ -31,4 +31,7 @@ Route::get('/our_team', function () {
 Route::get('/financing', function () {
     return view('financing');
 });
+Route::get('/choosing_your_sign', function () {
+    return view('choosing_your_sign');
+});
 
