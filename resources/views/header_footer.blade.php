@@ -41,7 +41,7 @@
                    <!--  <li class=""><a href="/login">Login</a></li> -->
                 </ul>
                 <ul id="nav_links" class="nav navbar-nav navbar-right">
-                   <li class=""><a href="/login"><i class="fa fa-sign-in"></i> Login</a></li>
+                   <li class=""><a href="/login"><i style="font-size: 18px;" class="fa fa-sign-in"></i> Login</a></li>
                 </ul>
               </div>
             </div>
@@ -221,12 +221,12 @@
                          <div style="padding-top: 20px; text-align: center;" class="col-md-12">
                              <div id="social_media" class="row">
                                <ul>
-                                 <li><a href="#" class="fa fa-facebook"></a></li>
-                                 <li><a href="#" class="fa fa-twitter"></a></li>
-                                 <li><a href="#" class="fa fa-google"></a></li>
-                                 <li><a href="#" class="fa fa-instagram"></a></li>
-                                 <li><a href="#" class="fa fa-linkedin"></a></li>
-                                 <li><a href="#" class="fa fa-youtube"></a></li>
+                                 <li><a id="social_icon" href="#" class="fa fa-facebook"></a></li>
+                                 <li><a id="social_icon" href="#" class="fa fa-twitter"></a></li>
+                                 <li><a id="social_icon" href="#" class="fa fa-google"></a></li>
+                                 <li><a id="social_icon" href="#" class="fa fa-instagram"></a></li>
+                                 <li><a id="social_icon" href="#" class="fa fa-linkedin"></a></li>
+                                 <li><a id="social_icon" href="#" class="fa fa-youtube"></a></li>
                                </ul>
                              </div>
                              <div class="row">
