@@ -221,16 +221,15 @@
                          <div style="padding-top: 20px; text-align: center;" class="col-md-12">
                              <div id="social_media" class="row">
                                <ul>
-                                 <li><a id="social_icon" href="#" class="fa fa-facebook"></a></li>
-                                 <li><a id="social_icon" href="#" class="fa fa-twitter"></a></li>
-                                 <li><a id="social_icon" href="#" class="fa fa-google"></a></li>
-                                 <li><a id="social_icon" href="#" class="fa fa-instagram"></a></li>
-                                 <li><a id="social_icon" href="#" class="fa fa-linkedin"></a></li>
-                                 <li><a id="social_icon" href="#" class="fa fa-youtube"></a></li>
+                                 <li><a id="social_icon" href="https://www.facebook.com/Global-Dynamic-Technology-LLC-563053140792049/" class="fa fa-facebook"></a></li>
+                                
+                                 <li><a id="social_icon" href="https://www.instagram.com/gdtechusa/" class="fa fa-instagram"></a></li>
+                                 <li><a id="social_icon" href="https://www.linkedin.com/company/global-dynamic-technology-llc/about/" class="fa fa-linkedin"></a></li>
+                                 <li><a id="social_icon" href="https://www.youtube.com/channel/UCgGTBloratRYwLDWiP_iBLg?disable_polymer=true" class="fa fa-youtube"></a></li>
                                </ul>
                              </div>
                              <div class="row">
-                               <p style="color: #5f5f5f;">Copyright © 2018 -2019 Sample Company Inc.</p>
+                               <p style="color: #5f5f5f;">Copyright 2019 Global Dynamic Technology LLC. All Rights Reserved.</p>
                              </div>
                          </div>
                     </div>
