@@ -37,4 +37,7 @@ Route::get('/choosing_your_sign', function () {
 Route::get('/led_bulb_types', function () {
     return view('led_bulb_types');
 });
+Route::get('/water_proofing', function () {
+    return view('water_proofing');
+});
 

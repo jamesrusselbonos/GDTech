@@ -76,7 +76,7 @@
                 <div class="col-md-4">
                   <div class="row">
                     <h4><a href="/water_proofing" style="color: #000;">Water Proofing</a></h4>
-                    <h5><a href="/water_proofing">Home</a> / <a>LED Basics</a> / <a href="/water_proofing" style="color: #125876">Water Proofing</a>
+                    <h5><a href="/">Home</a> / <a>LED Basics</a> / <a href="/water_proofing" style="color: #125876">Water Proofing</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
