@@ -54,8 +54,8 @@
               <div class="container">
                 <div class="col-md-4">
                   <div class="row">
-                    <h4><a style="color: #000;">LED Bulb Types</a></h4>
-                    <h5><a>Home</a> / <a>LED Basics</a> / <a style="color: #125876">LED Bulb Types</a>
+                    <h4><a  href="/led_bulb_types" style="color: #000;">LED Bulb Types</a></h4>
+                    <h5><a href="/">Home</a> / <a>LED Basics</a> / <a href="/led_bulb_types" style="color: #125876">LED Bulb Types</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -155,7 +155,7 @@
                   </div>
                   <div class="col-md-4">
                     <h4>What is the difference between SMD and DIP?</h4>
-                    <h5>This is a great question. Please refer to our <a>LED Bulbs Page.</a></h5>
+                    <h5>This is a great question. Please refer to our <a href="/led_bulb_types">LED Bulbs Page.</a></h5>
                   </div>
                 </div>
               </div>

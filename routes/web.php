@@ -34,4 +34,7 @@ Route::get('/financing', function () {
 Route::get('/choosing_your_sign', function () {
     return view('choosing_your_sign');
 });
+Route::get('/led_bulb_types', function () {
+    return view('led_bulb_types');
+});
 
