@@ -5,71 +5,76 @@
 
 
 <div class="hero-image">
-     <img src="/img/banner.jpg" alt="Snow" style="width:100%;max-height: 500px;">
+     <img src="/img/General-Electric-Phase-Out-CFL-Bulbs-LED-Bulbs1.jpg" alt="Snow" style="width:100%;max-height: 600px;">
  <div class="hero-text">
-    <h1 style="font-size:40px">Choosing Your Sign</h1>
+    <h1 style="font-size:40px">LED Bulb Types</h1>
     <a href="#" style="color: #fff">Home</a> >> <a href="#" style="color: #fff">LED Basics</a> >> <a href="/choosing_your_sign" style="color: #fff ">Choosing Your Sign</a>
   </div>
 </div>
+
+    <div class="row">
+         <div class="content_2">
+             <div class="container">
+                 <div class="col-lg-62" style="padding-top: 50px;padding-bottom: 50px;">
+                     <h3 style="text-align: center;" >SMD vs DIP</h3>
+                     <p style="text-align: justify;">There are two main bulb types used to display images on LED screens: DIP and SMD. Here are a few main variations on the key characteristics.</br></br>
+
+                    The first difference involves the way color is displayed. Digital screens using DIP generally separate the key colors red, green, and blue (R, G, B) on different LEDs. Occasionally another red LED will be added resulting in one green, one blue, and two red lights in a square shaped pixel. DIP bulbs make the entire LED sign larger and thicker than SMD bulbs. Digital screens using SMD integrate all three key colors (R, G, B) into one bulb, which result in a much smaller and more compact LED panel.</br></br>
+
+                    The second difference has to do with brightness and image quality. Digital LED panels using SMD have a dramatically brighter screen. Since the technology used in SMD screens is more advanced, it has a higher picture quality and displays a more vivid image. Digital displays using DIP are less expensive to manufacture but their brightness and resolution are lower because the technology is older.</br></br>
+
+                    The third difference has to do with overall lifespan. Digital LED screens using SMD have a longer lifespan than those using DIP. SMD screens run on lower voltages and currents and use less power overall. The increased energy efficiency produces less heat that leads to reduced breakdown of components which allows for a longer lifespan. Knowing the key differences between DIP and SMD will help you choose the best digital LED sign for your business.</p>
+                 </div>
+             </div>
+         </div>
+    </div>
+        
+        <div class="row">
+         <div class="content_2">
+             <div class="container">
+                 <div class="col-lg-6">
+                     <img src="/img/led1.png" alt="Snow" style="width:100%;max-height: 500px;">
+                     </br></br></br></br>
+                 </div>
+                 <div class="col-lg-6" style="text-align: justify;">
+                     <h3>DIP Bulb</h3>
+                     <p>This method of manufacturing is attaching a part to a circuit board is known as “through the hole”.</p>
+                 </div>
+                 
+             </div>
+         </div>
+    </div>
+        <div class="row">
+         <div class="content_2">
+             <div class="container">
+                 <div class="col-lg-6" style="text-align: justify;">
+                     <h3>SMD Bulb</h3>
+                     <p>This is newer technology. SMDs can be made much smaller and a lot thinner because the part is only soldered to the “surface” of one side of the circuit board.</p>
+                 </div>
+                    <div class="col-lg-6">
+                     <img src="/img/led2.png" alt="Snow" style="width:100%;max-height: 500px;">
+                 </br></br></br></br>
+                    </div>
+                </div>
+           </div>
+       </div>
+            <div class="row">
+         <div class="content_2">
+             <div class="container">
+                 <div class="col-lg-6">
+                     <iframe width="470" height="315" src="https://www.youtube.com/embed/60HHkJByjaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br></br>
+                 </div>
+                 <div class="col-lg-6" style="text-align: justify;">
+                     <h3>Installation of LED Bulbs</h3>
+                     <p>This is just one of our machines that install the LED bulbs on to the panel.</p>
+                 </div>
+                 
+             </div>
+         </div>
+    </div>
+
+
     
-<div class="row">
-         <div class="content_2">
-             <div class="container">
-                 <div class="col-lg-62" style="padding-top: 50px;padding-bottom: 50px;">
-                     <h3 style="text-align: center;" >Selecting the Right Sign</h3>
-                     <p style="text-align: justify;">Believe it or not, finding the right digital LED sign for your business takes a little more thought than most people imagine. Choosing the right sized LED model with proper resolution for your business depends on a few key questions. For example, where will your digital sign will be installed? Will your sign be seen by pedestrians walking close by at a slow speed or by vehicles far away moving at fast speeds? Will you display pictures, videos, or both? Our professional team at GDTEK can help you assess the answers to these questions and choose the best LED sign for your business..</p>
-                 </div>
-
-                 <div class="col-lg-6" style="text-align: justify;">
-                     <h3>Pitch, Resolution, Viewing Distance, and Angle</h3>
-                     <p>The resolution of your LED sign ultimately depends on the particular pixel pitch of the model you choose. A smaller pixel pitch means that there is a larger number of pixels on a smaller surface area. This translates to a higher resolution which is ideal for viewing at a close proximity near eye level. A larger pixel pitch means that there is a smaller number of pixels on a larger surface area. This translates to a lower resolution which is ideal for seeing from a far distance high above ground level.</p>
-                 </div>
-                 <div class="col-lg-6">
-                     <img src="/img/Sales-Materials.png" alt="Snow" style="width:100%;max-height: 500px;">
-                 </div>
-             </div>
-         </div>
-    </div>
-</div>
-    <div class="row">
-         <div class="content_2">
-             <div class="container">
-                
-                        
-                 <div class="col-lg-6" style="text-align: justify;">
-                     <h3>What Size Sign?</h3>
-                     <p>To determine the appropriate size for your location, take into consideration the speed and type of traffic, distance from the roadway, space restrictions, zoning constraints and desired sign content.</p>
-                 </div>
-                     <div class="col-lg-6">
-                     <img src="/img/Sales-Materials.png" alt="Snow" style="width:100%;max-height: 500px;">
-                 </div>
-             </div>
-         </div>
-    </div>
-</div>
-    <div class="row">
-         <div class="content_2">
-             <div class="container">
-                
-
-                 <div class="col-lg-6" style="text-align: justify;">
-                     <h3>Budget</h3>
-                     <p>As with most big purchases, quality, features and size will all affect the price of your LED sign. It’s important to remember that an LED sign should not be viewed as a capital investment. Instead, look to your marketing and advertising budgets. Unlike traditional advertising methods, LED signs offer incredible value and ongoing return on investment. Consider this: when you invest in an LED sign, you control the “publication” of your message. You won’t lose time and money getting an ad into circulation. Instead, your advertising will reach people when they’re most able to act on it. We’ve seen business owners sacrifice quality for price and purchase an inferior, imported product only to have it replaced a few months later. A low price can be enticing, but your initial savings may cost a lot more than you bargained for. The fact is your investment in an LED sign is just too large to gamble your success on a cut-rate product.</p>
-                 </div>
-                 <div class="col-lg-6">
-                     <img src="/img/Sales-Materials.png" alt="Snow" style="width:100%;max-height: 500px;">
-                 </div>
-             </div>
-         </div>
-    </div>
-        <div class="container">
-                 <div class="col-lg-62" style="padding-top: 50px;padding-bottom: 50px;">
-                     <h3 style="text-align: center;" >Selecting the Right Sign</h3>
-                     <p style="text-align: justify;">Believe it or not, finding the right digital LED sign for your business takes a little more thought than most people imagine. Choosing the right sized LED model with proper resolution for your business depends on a few key questions. For example, where will your digital sign will be installed? Will your sign be seen by pedestrians walking close by at a slow speed or by vehicles far away moving at fast speeds? Will you display pictures, videos, or both? Our professional team at GDTEK can help you assess the answers to these questions and choose the best LED sign for your business..</p>
-                 </div>
-
-               
-             </div>
 
     
 @endsection
