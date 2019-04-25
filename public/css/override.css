@@ -390,8 +390,6 @@
 	width: 100%;
 	height: 620px;
 
-	background-color: red;
-
 	margin-bottom: 20px;
 
 	background-image: url("/img/ball-bling-blur-568948.jpg");
@@ -408,7 +406,6 @@
 
 	/*padding-top: 160px;*/
 
-	background-color: blue;
 }
 .image3_wrapper{
 	height: 290px;
@@ -421,7 +418,6 @@
 
 	/*padding-top: 160px;*/
 
-	background-color: blue;
 }
 .image2{
 	width: 100% !important;
@@ -476,8 +472,6 @@
 	width: 100%;
 	height: 200px;
 
-	background-color: green;
-
 	margin-bottom: 20px;
 
 	background-image: url("/img/brass-bulb-classic-1112598.jpg");
@@ -501,8 +495,6 @@
 .image5{
 	width: 100%;
 	height: 200px;
-
-	background-color: green;
 
 	background-image: url("/img/bright-bulb-close-up-266688.jpg");
 	background-size: cover;
@@ -627,6 +619,12 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 
   	text-align:  center;
   }
+   .content_2-5{
+  	padding-top: 30px;
+  	padding-bottom: 30px;
+
+  	text-align:  center;
+  }
   .content_2 a{
   	background-color: #FF4D00;
 	border: none;
@@ -635,6 +633,10 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 	width: auto;
 
 	margin-top: 20px;
+  }
+   .content_2-5 a{
+ 	color: #fff;
+ 	text-decoration: none;
   }
   .content_2 a:hover{
   	background-color: #FF4D00;
@@ -660,4 +662,23 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 
       font-size: 20px;
       color: #fff;
+    }
+     .swiper-slide a{
+     	cursor: pointer;
+     }
+    .modal-footer .btn{
+    	border-radius: 30px;
+    	background-color: #FF4D00;
+
+    	color: #fff;
+
+    	z-index: 20px;
+    }
+    .modal-body .carousel-caption{
+    	font-size: 20px;
+
+    	/*background-color: #FF4D00;
+    	border-radius: 30px;
+*/
+    	color: #fff;
     }

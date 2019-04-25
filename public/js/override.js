@@ -96,7 +96,6 @@ $(window).ready(function(){
         })
     }); // < handler end
 
-
     function deferVideo() {
 
         //defer html5 video loading

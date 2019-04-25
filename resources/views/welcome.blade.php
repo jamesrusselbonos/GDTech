@@ -144,7 +144,7 @@
       </div>
 
       <div class="row">
-               <div class="content_2">
+               <div class="content_2-5">
                    <div class="container">
                        <div class="col-lg-12">
                           <div class="row">
@@ -158,14 +158,14 @@
                               <!-- Swiper -->
                                 <div class="swiper-container">
                                   <div class="swiper-wrapper">
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Entertainment_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Entertainment</div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/church_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Religious</div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Hospitality_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Hospitality</div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/FoodServices_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Food Services</div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Education_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Education</div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Automotive_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Automotive</div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/HealthCare_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Health Care Services</div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/ProfessionalServices_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; ">Professional Services</div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Entertainment_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#entertainment">Entertainment</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/church_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#religious">Religious</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Hospitality_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#hospitality">Hospitality</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/FoodServices_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#food_services">Food Services</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Education_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#education">Education</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Automotive_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#automotive">Automotive</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/HealthCare_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#health_care">Health Care Services</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/ProfessionalServices_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#professional_services">Professional Services</a></div></div>
                                     <!-- <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/9)"></div>
                                     <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/10)"></div> -->
                                   </div>
@@ -181,6 +181,196 @@
                    </div>
                </div>
           </div>
+
+               <!-- Modal -->
+         <div id="entertainment" class="modal fade" role="dialog">
+           <div class="modal-dialog">
+
+             <!-- Modal content-->
+             <div class="modal-content">
+               <!-- <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Modal Header</h4>
+               </div> -->
+               <div class="modal-body">
+                 <div style="margin-top: -15px;" class="row">
+                    <div id="carousel-entertainment" class="carousel slide" data-ride="carousel" data-interval="500"> 
+                      <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                             <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Movie-Theaters-Led-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Movie Theaters
+                              </div>
+                          </div>
+                          <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Bowling-Alley-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Bowling Alley
+                              </div>
+                          </div>
+                           <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Mini-Golf-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Mini  Golf
+                              </div>
+                           </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Sports-Stadium-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Sports Events
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Arcade-LED-Sign-LED-panel.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Arcade
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Casino-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Casino
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Shopping-Mall-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Shopping
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Amusement-Park-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Amusement Park
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Skating-Rink-LED-Sign-LED-Panels.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Skating Rink
+                              </div>
+                            </div>   
+                            <a class="left carousel-control" href="#carousel-entertainment" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a class="right carousel-control" href="#carousel-entertainment" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a>
+                        </div>
+                        <div style="padding-right: 30px; padding-left: 30px;" class="row">
+                          <h3 style="text-align: center;">Entertainment Industry</h3>
+                          <p>In any industry, if your business doesn’t earn popularity then you won’t profit and succeed. This is especially true in the entertainment industry where each business purely depends on recognition and reputation within its community. One of the keys to gaining awareness in your entertainment business is constant advertising. Promote your business more efficiently now with a digital LED sign from GDTEK.</p>
+                          <p>Every head is sure to turn and notice your business with a brand new state-of-the-art LED sign that can be clearly seen day or night, rain or shine. For example, display upcoming events, schedules, special offers, discount prices, exclusive guest appearances, etc. Customize your LED sign to brand your business and offer your recreational services with words, pictures, or videos. Maintain the flexibility to change your message anytime within seconds by using an LED sign from GDTEK.</p>
+                          <p>In addition, increase efficiency of the employees at your business with the assistance of LED signs. Let the digital signs answer basic questions and guide your customers which will allow your employees to work more effectively. Incorporating an LED sign to your entertainment business is like hiring a team member to your marketing department that will work 24/7 nonstop 365 days a year.</p>
+                          <p>Now more than ever, taking advantage of all the benefits that LED signs offer your business in the entertainment industry has become a necessity to remain ahead of your competition. Your business can boost sales immediately and advertise more cost-effectively with an LED sign from GDTEK. Upgrade your business today to GDTEK’s industry leading LED technology and instantly expand your popularity and profitability.</p>
+                          <p>Businesses that fall under the category of “entertainment industry” include amusement parks, arcades, bowling alleys, casinos, golf courses, shopping malls, skating rinks, sporting arenas, theaters,  and other entertainment-related businesses.</p>
+                        </div>
+                    </div>
+                 </div>
+               </div>
+               <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+             </div>
+           </div>
+         </div>
+          
+         <!-- Modal -->
+         <div id="religious" class="modal fade" role="dialog">
+           <div class="modal-dialog">
+
+             <!-- Modal content-->
+             <div class="modal-content">
+               <!-- <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Modal Header</h4>
+               </div> -->
+               <div class="modal-body">
+                 <div style="margin-top: -15px;" class="row">
+                    <div id="carousel-religious" class="carousel slide" data-ride="carousel" data-interval="500"> 
+                      <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                             <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Church-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Church
+                              </div>
+                          </div>
+                         
+                            <!-- <a class="left carousel-control" href="#carousel-religious" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a class="right carousel-control" href="#carousel-religious" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a> -->
+                        </div>
+                    </div>
+                 </div>
+               </div>
+               <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+             </div>
+           </div>
+         </div>
+
+           <!-- Modal -->
+         <div id="hospitality" class="modal fade" role="dialog">
+           <div class="modal-dialog">
+
+             <!-- Modal content-->
+             <div class="modal-content">
+               <!-- <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Modal Header</h4>
+               </div> -->
+               <div class="modal-body">
+                 <div style="margin-top: -15px;" class="row">
+                    <div id="carousel-hospitality" class="carousel slide" data-ride="carousel" data-interval="500"> 
+                      <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                             <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Hotel-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Hotel
+                              </div>
+                          </div>
+                          <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Motel-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Motel
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Bed-and-Breakfast-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Bed & Breakfast
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/RV-Park-LED-Sign-LED.jpeg" alt="...">
+                              <div class="carousel-caption">
+                                RV Park
+                              </div>
+                            </div>  
+                         
+                            <a class="left carousel-control" href="#carousel-hospitality" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a class="right carousel-control" href="#carousel-hospitality" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a>
+                        </div>
+                    </div>
+                 </div>
+               </div>
+               <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+             </div>
+           </div>
+         </div>
 
     <div class="contact_form">
         <div class="row">
