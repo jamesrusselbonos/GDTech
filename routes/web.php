@@ -40,4 +40,8 @@ Route::get('/led_bulb_types', function () {
 Route::get('/water_proofing', function () {
     return view('water_proofing');
 });
+Route::get('/led_basic', function () {
+    return view('led_basic');
+});
+
 

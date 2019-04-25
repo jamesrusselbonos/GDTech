@@ -42,7 +42,7 @@
               <div class="collapse navbar-collapse" id="myNavbar">
                 <ul id="nav_links" class="nav navbar-nav navbar-left">
                     <li class=""><a href="/">Home</a></li>
-                    <li class="hoverLEDBasics"><a href="/">LED Basics</a></li>
+                    <li class="hoverLEDBasics"><a href="/led_basic">LED Basics</a></li>
                     <li class="hoverabout"><a href="/about">About</a></li>
                     <li class=""><a href="/financing">Financing</a></li>
                     <li class="hoverfaq"><a href="">FAQ</a></li>
@@ -61,7 +61,7 @@
                 <div class="col-md-4">
                   <div class="row">
                     <h4><a  href="/led_bulb_types" style="color: #000;">LED Bulb Types</a></h4>
-                    <h5><a href="/">Home</a> / <a>LED Basics</a> / <a href="/led_bulb_types" style="color: #125876">LED Bulb Types</a>
+                    <h5><a href="/">Home</a> / <a  href="/led_basic">LED Basics</a> / <a href="/led_bulb_types" style="color: #125876">LED Bulb Types</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -76,7 +76,7 @@
                 <div class="col-md-4">
                   <div class="row">
                     <h4><a href="/water_proofing" style="color: #000;">Water Proofing</a></h4>
-                    <h5><a href="/">Home</a> / <a>LED Basics</a> / <a href="/water_proofing" style="color: #125876">Water Proofing</a>
+                    <h5><a href="/">Home</a> / <a href="/led_basic">LED Basics</a> / <a href="/water_proofing" style="color: #125876">Water Proofing</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
@@ -91,7 +91,7 @@
                 <div class="col-md-4">
                   <div class="row">
                     <h4><a href="/choosing_your_sign" style="color: #000;">Choosing Your Sign</a></h4>
-                    <h5><a>Home</a> / <a>LED Basics</a> / <a href="/choosing_your_sign" style="color: #125876">Choosing Your Sign</a>
+                    <h5><a>Home</a> / <a href="/led_basic">LED Basics</a> / <a href="/choosing_your_sign" style="color: #125876">Choosing Your Sign</a>
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
