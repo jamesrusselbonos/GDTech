@@ -372,6 +372,329 @@
            </div>
          </div>
 
+           <!-- Modal -->
+         <div id="automotive" class="modal fade" role="dialog">
+           <div class="modal-dialog">
+
+             <!-- Modal content-->
+             <div class="modal-content">
+               <!-- <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Modal Header</h4>
+               </div> -->
+               <div class="modal-body">
+                 <div style="margin-top: -15px;" class="row">
+                    <div id="carousel-automotive" class="carousel slide" data-ride="carousel" data-interval="500"> 
+                      <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                             <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/New-Car-Dealership.jpg" alt="...">
+                              <div class="carousel-caption">
+                                New Car Dealership
+                              </div>
+                          </div>
+                          <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Rental-Car-Dealership.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Used Car Dealership
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/New-Car-Dealership.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Car Rental
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Motorcycle-Dealership-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Motorcycle Dealership
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Tire-shop-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Tire Shop
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/iStock-612257332.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Mechanic Garage
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Car-Wash-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Car Wash
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Gas-Station-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Gas Station
+                              </div>
+                            </div>  
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Oil-Change-mechanic-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Oil Change Garage
+                              </div>
+                            </div>  
+                         
+                            <a class="left carousel-control" href="#carousel-automotive" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a class="right carousel-control" href="#carousel-automotive" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a>
+                        </div>
+                    </div>
+                 </div>
+               </div>
+               <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+             </div>
+           </div>
+         </div>
+
+             <!-- Modal -->
+         <div id="education" class="modal fade" role="dialog">
+           <div class="modal-dialog">
+
+             <!-- Modal content-->
+             <div class="modal-content">
+               <!-- <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Modal Header</h4>
+               </div> -->
+               <div class="modal-body">
+                 <div style="margin-top: -15px;" class="row">
+                    <div id="carousel-education" class="carousel slide" data-ride="carousel" data-interval="500"> 
+                      <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                             <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Daycare-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Daycare
+                              </div>
+                          </div>
+                          <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Preschool-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Preschool
+                              </div>
+                          </div>
+                           <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/ElementarySchool-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Elementary
+                              </div>
+                           </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Junior-High-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Junior High / Middle School
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/High-School-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                High School
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/College-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                College
+                              </div>
+                            </div>   
+                            
+                            <a class="left carousel-control" href="#carousel-education" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a class="right carousel-control" href="#carousel-education" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a>
+                        </div>
+                        <div style="padding-right: 30px; padding-left: 30px;" class="row">
+                          <h3 style="text-align: center;">Education</h3>
+                          <p>Educational institutions that use outdoor and indoor LED signs benefit in many ways. Not only do programmable LED signs from GDTEK improve the overall image of schools, but they also allow fast and flexible communication with the masses. Advertise your public or private school digitally and entice passersby with words, pictures, and videos that appeal to their eyes. Print signs and manual message boards are time consuming to change and are difficult to read. LED signs from GDTEK can be seen clearly anytime day or night, rain or shine.</p>
+                          <p>Quickly and easily send messages in seconds with the click of a button to the entire student body, teachers, administrators, or even your surrounding community. Digital LED signs from GDTEK will help keep everyone in your neighborhood aware of special events, activities, programs, holidays, announcements, deadlines, emergencies, etc.</p>
+                          <p>Instantly connect with a large audience in an exciting way by using an impressive LED sign from GDTEK. Interact in a new manner through words, pictures, and videos. Unite, inspire, and motivate your student body during rallies and assemblies at your school with this new state-of-the-art technology.</p>
+                          <p>Besides being able to communicate faster and easier than ever before, stream live video footage at your school with GDTEK’s stunning LED signs. For example if your school has competitive sports teams, use an LED display to stream live games. These digital displays can also show instant replays and act as a scoreboards. Sporting events at your school become so much more interactive and lively with an LED sign from GDTEK. Educational institutions gain a huge advantage accross the board by upgrading to digital signs.</p>
+                          <p>Businesses that fall under the category of “educational institution” include public and private K-12 schools, colleges, universities, trade schools, and other education-related institutions.</p>
+                        </div>
+                    </div>
+                 </div>
+               </div>
+               <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+             </div>
+           </div>
+         </div>
+
+             <!-- Modal -->
+         <div id="health_care" class="modal fade" role="dialog">
+           <div class="modal-dialog">
+
+             <!-- Modal content-->
+             <div class="modal-content">
+               <!-- <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Modal Header</h4>
+               </div> -->
+               <div class="modal-body">
+                 <div style="margin-top: -15px;" class="row">
+                    <div id="carousel-health_care" class="carousel slide" data-ride="carousel" data-interval="500"> 
+                      <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                             <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Doctors-Office-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Doctoc Office
+                              </div>
+                          </div>
+                          <div class="item">
+                              <img class="img-responsive" src=https://globaldynamictechnology.com/wp-content/uploads/2017/09/Hospital-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Hospital
+                              </div>
+                          </div>
+                           <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/UrgentCare-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Urgent Care
+                              </div>
+                           </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/DentalClinic-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Dental Clinic
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/OrthodonticOffice-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Orthodontic Clinic
+                              </div>
+                            </div>   
+                            
+                            <a class="left carousel-control" href="#carousel-health_care" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a class="right carousel-control" href="#carousel-health_care" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a>
+                        </div>
+                        <div style="padding-right: 30px; padding-left: 30px;" class="row">
+                          <h3 style="text-align: center;">Healthcare Services Industry</h3>
+                          <p>Many businesses offering healthcare services across the country are switching from print signs to digital LED signs because of their many benefits. Not only do they enhance the image of your healthcare business and draw in new customers, but programmable LED signs also increase efficiency, improve communication with current patients, and raise customer satisfaction. Take advantage of state-of-the-art LED signs from GDTEK and watch your business quickly progress in the healthcare industry. Here are some examples of how more healthcare businesses have utilized LED signs in their companies.</p>
+                          <p>Digital LED signs have offered businesses with an advanced form of promoting specific healthcare programs. Easily inform both potential and existing patients about routine and specialty services in minutes with an LED sign from GDTEK. Also, use your LED sign to publish reminders and encourage healthy habits in your community. Not to mention, help your visitors easily navigate your facility at anytime of the day or night with a bright LED sign from GDTEK. Clearly knowing where to go especially during an emergency is crucial. Communicate with every single passerby with a programmable LED sign from GDTEK.</p>
+                          <p>Businesses that fall under the category of “healthcare services industry” include hospitals, urgent care clinics, specialty clinics, therapy clinics, psychologist offices, dental offices, and other healthcare-related businesses.</p>
+                         
+                        </div>
+                    </div>
+                 </div>
+               </div>
+               <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+             </div>
+           </div>
+         </div>
+
+         <!-- Modal -->
+         <div id="professional_services" class="modal fade" role="dialog">
+           <div class="modal-dialog">
+
+             <!-- Modal content-->
+             <div class="modal-content">
+               <!-- <div class="modal-header">
+                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                 <h4 class="modal-title">Modal Header</h4>
+               </div> -->
+               <div class="modal-body">
+                 <div style="margin-top: -15px;" class="row">
+                    <div id="carousel-professional_services" class="carousel slide" data-ride="carousel" data-interval="500"> 
+                      <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                             <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/CPA-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                CPA / Accountant
+                              </div>
+                          </div>
+                          <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Architect-LED-sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Architect
+                              </div>
+                          </div>
+                           <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Bank-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Bank
+                              </div>
+                           </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Construction-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Construction
+                              </div>
+                            </div>   
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Contractor-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Contractor
+                              </div>
+                            </div> 
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Insurance-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Insurance
+                              </div>
+                            </div> 
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Lawyer-LEDSign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Lawyer
+                              </div>
+                            </div> 
+                            <div class="item">
+                              <img class="img-responsive" src="https://globaldynamictechnology.com/wp-content/uploads/2017/09/Real-Estate-LED-Sign-LED.jpg" alt="...">
+                              <div class="carousel-caption">
+                                Real State
+                              </div>
+                            </div>   
+                            
+                            <a class="left carousel-control" href="#carousel-professional_services" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a class="right carousel-control" href="#carousel-professional_services" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a>
+                        </div>
+                       <!--  <div style="padding-right: 30px; padding-left: 30px;" class="row">
+                          <h3 style="text-align: center;">Healthcare Services Industry</h3>
+                          <p>Many businesses offering healthcare services across the country are switching from print signs to digital LED signs because of their many benefits. Not only do they enhance the image of your healthcare business and draw in new customers, but programmable LED signs also increase efficiency, improve communication with current patients, and raise customer satisfaction. Take advantage of state-of-the-art LED signs from GDTEK and watch your business quickly progress in the healthcare industry. Here are some examples of how more healthcare businesses have utilized LED signs in their companies.</p>
+                          <p>Digital LED signs have offered businesses with an advanced form of promoting specific healthcare programs. Easily inform both potential and existing patients about routine and specialty services in minutes with an LED sign from GDTEK. Also, use your LED sign to publish reminders and encourage healthy habits in your community. Not to mention, help your visitors easily navigate your facility at anytime of the day or night with a bright LED sign from GDTEK. Clearly knowing where to go especially during an emergency is crucial. Communicate with every single passerby with a programmable LED sign from GDTEK.</p>
+                          <p>Businesses that fall under the category of “healthcare services industry” include hospitals, urgent care clinics, specialty clinics, therapy clinics, psychologist offices, dental offices, and other healthcare-related businesses.</p>
+                         
+                        </div> -->
+                    </div>
+                 </div>
+               </div>
+               <div class="modal-footer">
+                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+             </div>
+           </div>
+         </div>
+
+
     <div class="contact_form">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
