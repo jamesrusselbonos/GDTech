@@ -5,8 +5,14 @@
   background-size: cover;
   background-attachment: fixed;
   color: #fff;
+
+
   }
 
+  .content_4  h3{text-align: center;}
+  h2{text-align: center;}
+
+ p { text-align: justify; }
 
 .content_11{height: 500px;
 	padding-top: 100px;
