@@ -48,7 +48,7 @@
                     <li class="hoverfaq"><a href="">FAQ</a></li>
                     <li class=""><a href="/login">Login</a></li> 
                 </ul>
-              <ul id="nav_links" class="nav navbar-nav navbar-right">
+              <ul style="margin-top: 1.5%;" id="nav_links" class="nav navbar-nav navbar-right">
                    <li class="fa fa-envelope ">&nbsp;&nbsp;(971) 273-7878 &nbsp;&nbsp;&nbsp;&nbsp; </li>
                    <li><i style="font-size: 18px;" class="fa fa-envelope"></i> &nbsp;&nbsp;info@gdteckusa.com</li>
                 </ul>
