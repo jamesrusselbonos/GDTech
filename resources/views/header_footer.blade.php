@@ -152,7 +152,7 @@
                   </div>
                   <div class="col-md-4">
                     <h4>How do i see an in person demonstration?</h4>
-                    <h5>Want to take a look at a live LED sign? No problem, contact on our team member by <a>Clicking Here.</a></h5>
+                    <h5>Want to take a look at a live LED sign? No problem, contact on our team member by <a data-toggle="modal" data-target="#contact_modal">Clicking Here.</a></h5>
                   </div>
                 </div>
                 <div class="row">
@@ -184,11 +184,95 @@
                  <h4>Get more information about our LED signs and click the button to inquire now</h4>
                </div>
                <div class="col-md-3">
-                 <a class="btn btn-primary btn-lg" href="#" role="button">Contact Us</a>
+                 <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#contact_modal">Contact Us</a>
                </div>
              </div>
            </div>
          </div>
+        </div>
+
+        <!-- Modal -->
+        <div id="contact_modal" class="modal fade " role="dialog">
+          <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <!-- <h4 class="modal-title">Modal Header</h4> -->
+              </div>
+              <div style="padding-left: 30px; padding-right: 30px; margin-bottom: 30px;" class="modal-body">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                      
+                        <div class="contact_header"><h2>Get in touch</h2></div>
+                   
+                    </div>
+                </div>  
+                 <div class="row">
+                   <form>
+                     <div class="row">
+                       <div class="col-md-6">
+                         <!-- <label for="fname">First Name</label> -->
+                         <input class="textbox" type="text" id="fname" name="firstname" placeholder="First Name">
+                       </div>
+                       <div class="col-md-6">
+                         <!--  <label for="fname">Last Name</label> -->
+                          <input class="textbox" type="text" id="lname" name="lastname" placeholder="Last Name">
+                       </div>
+                     </div>
+                      <div class="row">
+                       <div class="col-md-6">
+                         <!-- <label for="pnumber">Phone Number</label> -->
+                          <input class="textbox" type="text" id="pnumber" name="phone_number" placeholder="Phone Number">
+                       </div>
+                       <div class="col-md-6">
+                        <!-- <label for="fname">First Name</label> -->
+                         <input class="textbox" type="text" id="email" name="email" placeholder="Email Address">
+                       </div>
+                     </div>
+                      <div class="row">
+                       <div class="col-md-12">
+                         <!-- <label for="fname">First Name</label> -->
+                          <input class="textbox" type="text" id="height" name="height" placeholder="Height of the Sign">
+                       </div>
+                       <div class="col-md-12">
+                         <!--  <label for="fname">Last Name</label> -->
+                             <input class="textbox" type="text" id="width" name="width" placeholder="Width of the Sign">
+                       </div>
+                     </div>
+                     <div class="row">
+                       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                           <!-- <label for="fname">First Name</label> -->
+                           <textarea class="t_textarea"  type="text" id="message" name="message" placeholder="Message..."></textarea>
+                       </div>
+                     </div>
+                     <div class="row">
+                       <div class="col-lg-12">
+                          <div class="row">
+                            <div class="col-md-12">
+                                <!-- <label for="fname">First Name</label> -->
+                                <input type="checkbox" name="vehicle1" value="Bike"> Contact me I am Interested in Purchasing<br>
+                                <input type="checkbox" name="vehicle2" value="Car"> Request for Quotation, I am Ready to Purchase an LED Sign<br>
+                            </div>
+                          </div>
+                         <div class="row">
+                           <div style="padding-top: 10px;" class="col-md-12">
+                               <!-- <label for="fname">First Name</label> -->
+                               <input class="form_btn" type="submit" value="Submit">
+                           </div>
+                         </div>
+                        </div> 
+                     </div>
+                   </form>
+                 </div>
+              </div>
+             <!--  <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div> -->
+            </div>
+
+          </div>
         </div>
 
         <div class="row">

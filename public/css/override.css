@@ -152,7 +152,7 @@
 	position: fixed;
 	top: 60px;
 
-	z-index: 100;
+	z-index: 200;
 
 	background-color: #fff;
 
@@ -186,7 +186,7 @@
 	position: fixed;
 	top: 60px;
 
-	z-index: 100;
+	z-index: 200;
 
 	background-color: #fff;
 
@@ -202,7 +202,7 @@
 	position: fixed;
 	top: 60px;
 
-	z-index: 100;
+	z-index: 200;
 
 	background-color: #fff;
 
@@ -327,8 +327,11 @@
 
  	padding-left: 10px;
 
- 	border: solid 1px #5f5f5f ;
+ 	border: solid 0.5px #e5e5e5 ;
  	border-radius: 30px;
+
+ 	background-color: #e5e5e5;
+ 	color: #000;
 
  }
  .t_textarea{
@@ -339,9 +342,15 @@
  	padding-left: 10px;
  	padding-top: 10px;
 
- 	border: solid 1px #5f5f5f ;
+ 	border: solid 0.5px #e5e5e5 ;
  	border-radius: 30px;
+
+ 	background-color: #e5e5e5;
+ 	color: #000;
  }
+ input[type="text"], input[type="password"], textarea, select { 
+    outline: none;
+}
  ./*c_form{
  	text-align: center;
  }*/
@@ -753,3 +762,4 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 
     	box-shadow: 0px 10px 20px #282828;
     }
+   
