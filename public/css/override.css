@@ -441,10 +441,11 @@
 	width: 100% !important;
 	height: 100% !important;
 
-	background-image: url("/img/blurred-background-coffee-cup-computer-908284.jpg");
+	background-image: url("/img/night-square.jpg");
 	background-size: cover;
 
 	 transition: all 0.5s ease;
+	 color: #fff;
 }
 .image2_wrapper:hover .image2,
 .image2_wrapper:focus .image2 {
