@@ -5,7 +5,7 @@
 
 
 <div class="hero-image">
-     <img src="/img/jael-vallee-1455237-unsplash.jpg" alt="Snow" style="width:100%;max-height: 600px;">
+     <img src="/img/photo-1542405160221-f5b46efdb363.jpg" alt="Snow" style="width:100%;max-height: 600px;">
  <div class="hero-text">
     <h1 style="font-size:35px">Water Proofing</h1>
     <a href="#" style="color: #fff">Home</a> >> <a href="#" style="color: #fff">LED Basics</a> >> <a href="/choosing_your_sign" style="color: #fff ">Water Proofing</a>

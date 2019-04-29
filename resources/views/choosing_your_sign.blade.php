@@ -5,7 +5,7 @@
 
 
 <div class="hero-image">
-     <img src="/img/banner.jpg" alt="Snow" style="width:100%;max-height: 500px;">
+     <img src="/img/night-square.jpg" alt="Snow" style="width:100%;max-height: 500px;">
  <div class="hero-text">
     <h1 style="font-size:40px">Choosing Your Sign</h1>
     <a href="#" style="color: #fff">Home</a> >> <a href="#" style="color: #fff">LED Basics</a> >> <a href="/choosing_your_sign" style="color: #fff">Choosing Your Sign</a>

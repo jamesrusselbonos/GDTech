@@ -5,7 +5,7 @@
 
 
 <div class="hero-image">
-     <img src="/img/General-Electric-Phase-Out-CFL-Bulbs-LED-Bulbs1.jpg" alt="Snow" style="width:100%;max-height: 600px;">
+     <img src="/img/photo-1547378526-863ec732bc0c.jpg" alt="Snow" style="width:100%;max-height: 600px;">
  <div class="hero-text">
     <h1 style="font-size:40px">LED Bulb Types</h1>
     <a href="#" style="color: #fff">Home</a> >> <a href="#" style="color: #fff">LED Basics</a> >> <a href="/choosing_your_sign" style="color: #fff ">Choosing Your Sign</a>

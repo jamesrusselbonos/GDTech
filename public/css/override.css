@@ -682,3 +682,74 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 */
     	color: #fff;
     }
+    .led_basics{
+    	width: 100%;
+    	height: 900px;
+
+    	background-image: url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg");
+    	background-size: cover;
+
+    	background-attachment: fixed;
+    }
+    .categories{
+    	margin-top: 150px;
+
+    	text-align: center;
+    	text-decoration: none;
+
+    	color: #fff;
+    }
+    .categories a{
+    	color: #fff;
+    	cursor: pointer;
+    }
+     .categories a:hover{
+    	color: #fff;
+    	cursor: pointer;
+
+    	text-decoration: none;
+    }
+    .led_bulb_typess{
+    	height: 500px;
+    	width: 100%;
+
+    	background-image: url("/img/photo-1547378526-863ec732bc0c.jpg");
+    	background-size: cover;
+    	background-position: center;
+
+    	text-align: center;
+
+    	padding-top: 230px;
+    }
+    .water_proofing{
+    	height: 500px;
+    	width: 100%;
+
+    	background-image: url("/img/photo-1542405160221-f5b46efdb363.jpg");
+    	background-size: cover;
+    	background-position: center;
+
+    	text-align: center;
+
+    	padding-top: 230px;
+    }
+    .choosing_a_sign{
+    	height: 500px;
+    	width: 100%;
+
+    	background-image: url("/img/night-square.jpg");
+    	background-size: cover;
+    	background-position: center;
+
+    	text-align: center;
+
+    	padding-top: 230px;
+    }
+    .led_bulb_typess:hover, .water_proofing:hover, .choosing_a_sign:hover {
+    	padding-top: 200px;
+    	transform: scale(1.05);
+
+    	transition: all 500ms ease;
+
+    	box-shadow: 0px 10px 20px #282828;
+    }
