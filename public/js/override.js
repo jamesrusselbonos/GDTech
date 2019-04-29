@@ -39,9 +39,11 @@ $(window).ready(function(){
         $(".hoverLEDBasics").on({
             mouseenter: function() {
                 $(".LEDBasics").stop().show();
+                $(".LEDBasics").stop().css('transition', 'all 500ms ease');
             },
             mouseleave: function() {
                 $(".LEDBasics").stop().hide();
+                $(".LEDBasics").stop().css('transition', 'all 500ms ease');
             }
         })
     }); // < handler end
@@ -61,9 +63,11 @@ $(window).ready(function(){
         $(".hoverabout").on({
             mouseenter: function() {
                 $(".nav_about").stop().show();
+                $(".nav_about").stop().css('transition', 'all 500ms ease');
             },
             mouseleave: function() {
                 $(".nav_about").stop().hide();
+                $(".nav_about").stop().css('transition', 'all 500ms ease');
             }
         })
     }); // < handler end
@@ -83,9 +87,11 @@ $(window).ready(function(){
         $(".hoverfaq").on({
             mouseenter: function() {
                 $(".faq").stop().show();
+                $(".faq").stop().css('transition', 'all 500ms ease');
             },
             mouseleave: function() {
                 $(".faq").stop().hide();
+                $(".faq").stop().css('transition', 'all 500ms ease');
             }
         })
     }); // < handler end
@@ -100,6 +106,41 @@ $(window).ready(function(){
             }
         })
     }); // < handler end
+
+    $(function() { // < handler start
+        $(".led_bulb_typess").on({
+            mouseenter: function() {
+                $(".led_basics").stop().css('background-image','url("/img/photo-1547378526-863ec732bc0c.jpg")');
+                 $(".led_basics").stop().css('transition', 'background-image 500ms ease');
+            },
+            mouseleave: function() {
+                $(".led_basics").stop().css('background-image','url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg")');
+            }
+        })
+    }); // < handler end
+     $(function() { // < handler start
+        $(".water_proofing").on({
+            mouseenter: function() {
+                $(".led_basics").stop().css('background-image','url("/img/photo-1542405160221-f5b46efdb363.jpg")');
+                 $(".led_basics").stop().css('transition', 'background-image 500ms ease');
+            },
+            mouseleave: function() {
+                $(".led_basics").stop().css('background-image','url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg")');
+            }
+        })
+    }); // < handler end
+      $(function() { // < handler start
+        $(".choosing_a_sign").on({
+            mouseenter: function() {
+                $(".led_basics").stop().css('background-image','url("/img/night-square.jpg")');
+                 $(".led_basics").stop().css('transition', 'background-image 500ms ease');
+            },
+            mouseleave: function() {
+                $(".led_basics").stop().css('background-image','url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg")');
+            }
+        })
+    }); // < handler end
+
 
     function deferVideo() {
 
