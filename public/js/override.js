@@ -9,9 +9,12 @@ $(window).scroll(function(){
      $('#nav_logo').css('transition','500ms ease');
      $('#nav_links a').css('color','#000');
      $('#nav_links a').css('transition','500ms ease');
+      $('#nav_links li').css('color','#000');
+     $('#nav_links li').css('transition','500ms ease');
  }else{
      $('#nav_logo').css('color','#fff');
      $('#nav_links a').css('color','#fff');
+      $('#nav_links li').css('color','#fff');
      $('.navbar').removeClass('navbar_scroll');
      $('#nav_logo').removeClass('nav_logo_scroll');
      $('.navbar').css('box-shadow','none');
@@ -23,10 +26,12 @@ $(window).ready(function(){
 	$('.navbar').hover(function() {
 	        $('.navbar').addClass('navbar_hover');
 	        $('#nav_links a').addClass('hover_links');
+             $('#nav_links li').addClass('hover_links');
 	        $('#nav_logo').addClass('nav_logo_hover');
 	  }, function() {
 	        $('.navbar').removeClass('navbar_hover');
 	        $('#nav_links a').removeClass('hover_links');
+              $('#nav_links li').removeClass('hover_links');
 	        $('#nav_logo').removeClass('nav_logo_hover');
 	  });
 
