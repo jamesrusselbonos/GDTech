@@ -4,18 +4,67 @@
    
    <div class="jumbotron jumbotron-fluid">
 
-       <video autoplay muted loop poster="https://dummyimage.com/900x400/000/fff">    
+     <!--   <video autoplay muted loop poster="https://dummyimage.com/900x400/000/fff">    
            <source src="" data-src="/img/Times Square NYC LED Billboards.mp4" type="video/mp4">
-          <!--  <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/webm">
-           <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/ogg"> -->
-       </video>
+           <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/webm">
+           <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/ogg">
+       </video> -->
 
          <div class="container text-white">
 
-           <h1 class="display-4">Global Dynamic Technology</h1>
-           <p class="lead">Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. </p>
-          <!--  <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a> -->
+            <div style="padding-top: 150px;" class="col-lg-7">
+               <h1 class="display-4">Global Dynamic Technology</h1>
+               <p class="lead">Introducing GDTech High Resolution LED signs. Smaller, Brighter, Bolder, Stronger, Better. We simply have a more advanced technology. </p>
+              <!--  <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a> -->
 
+            </div>
+            <divs class="col-lg-5">
+              <div id="j_carousel" class="carousel slide carousel-fade" data-ride="carousel" >
+                <!-- Indicators -->
+                <!-- <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol> -->
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <img src="/img/product_slide1.png" alt="Los Angeles">
+                   <!--  <div class="carousel-caption">
+                       <h3>Los Angeles</h3>
+                       <p>LA is always so much fun!</p>
+                     </div> -->
+                  </div>
+
+                  <div class="item">
+                    <img src="/img/product_slide2.png" alt="Chicago">
+                   <!--  <div class="carousel-caption">
+                       <h3>Los Angeles</h3>
+                       <p>LA is always so much fun!</p>
+                     </div> -->
+                  </div>
+
+                  <div class="item">
+                    <img src="/img/product_slide3.png" alt="New York">
+                    <!-- <div class="carousel-caption">
+                       <h3>Los Angeles</h3>
+                       <p>LA is always so much fun!</p>
+                     </div> -->
+                  </div>
+                </div>
+
+                <!-- Left and right controls -->
+              <!--   <a class="left carousel-control" href="#j_carousel" data-slide="prev">
+                  <span class="glyphicon glyphicon-chevron-left"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#j_carousel" data-slide="next">
+                  <span class="glyphicon glyphicon-chevron-right"></span>
+                  <span class="sr-only">Next</span>
+                </a> -->
+              </div>
+            </div>
          </div>
          <!-- /.container -->
        </div>
@@ -30,6 +79,34 @@
                      </div>
                  </div>
              </div>
+        </div>
+
+        <div class="row">
+          <div class="col_about_us">
+            <div class="container">
+              <div class="col-lg-2">
+                <h1>About GDTech</h1>
+              </div>
+               <div class="col-lg-10">
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <p>As a business owner, I've been interested in increasing my market share and increasing revenue. Bottom line, how can i increase revenue eddectively? The first problem i discovered was with my marketing budgets: there's so much bandwidth; so many good marketing options: social media, yellow pages online, newspaper, television, radio. As you know, social media, readio, etc. are great options. In researching these opportunities to effectively increase revenue, I came across LED sign technologies.</p>
+                      <p>The Small Business Admission's report on High Resolution LED Signs, released in 2001 on EMCs (Electronic Message Centers), states that a High Resolution LED sign is even more powerful than word of mouth and other advertising methods. The report summarized its conclusion that businesses will see 15% to 150% increase in revenue specifically from this type of LED sign.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <p>So i put in the work to solve the second problem: to find the best LED sign i could get. After researching, I found the best available, i purchasedit, installed it, and immediately saw an increase of a half a miillion dollars in revenue from the LED sign the first year, Combined with other marketing methods, revenue went through the roof! But, also immediately, i encountered my third problem: it had issues, and even ended up failing multiple times, frequently, from inferior technologies and materials. And i had the best product on the market!</p>
+                      <p>After reseaching globally LED sign products available and not finding anything better, i decided to resolve these problems: to put together a company, that offered a product that would not fail, that would not break, that would last, and that would actually stand up to weather and sunlight. After a long, rigorous road and significant investment, I worked with a team of engineers to develop a product that i can be proud, and in the process invented new ways of doing things to the tune of 11 new technology patents that we own. This transplates in to a product that blows the competition out of the water. Our resolution and sharpness are absolutely the best by far.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
 
    <div style="padding-top: 50px;" class="row">
@@ -158,14 +235,14 @@
                               <!-- Swiper -->
                                 <div class="swiper-container">
                                   <div class="swiper-wrapper">
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Entertainment_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#entertainment">Entertainment</a></div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/church_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#religious">Religious</a></div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Hospitality_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#hospitality">Hospitality</a></div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/FoodServices_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#food_services">Food Services</a></div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Education_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#education">Education</a></div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Automotive_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#automotive">Automotive</a></div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/HealthCare_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#health_care">Health Care Services</a></div></div>
-                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/ProfessionalServices_1000x1000.jpg)"><div style="background-color: #FF4D00; opacity:0.5; "><a  data-toggle="modal" data-target="#professional_services">Professional Services</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Entertainment_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#entertainment">Entertainment</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/church_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#religious">Religious</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Hospitality_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#hospitality">Hospitality</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/FoodServices_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#food_services">Food Services</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Education_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#education">Education</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/Automotive_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#automotive">Automotive</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/HealthCare_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#health_care">Health Care Services</a></div></div>
+                                    <div class="swiper-slide" style="background-image:url(https://globaldynamictechnology.com/wp-content/uploads/2017/08/ProfessionalServices_1000x1000.jpg)"><div style="background-color: #000; opacity:0.5; "><a  data-toggle="modal" data-target="#professional_services">Professional Services</a></div></div>
                                     <!-- <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/9)"></div>
                                     <div class="swiper-slide" style="background-image:url(http://lorempixel.com/600/600/nature/10)"></div> -->
                                   </div>

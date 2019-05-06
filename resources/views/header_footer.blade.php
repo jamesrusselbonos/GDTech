@@ -51,8 +51,8 @@
               <ul style="margin-top: 1.5%;" id="nav_links" class="nav navbar-nav navbar-right">
                   <!--  <li class="fa fa-envelope ">&nbsp;&nbsp;(971) 273-7878 &nbsp;&nbsp;&nbsp;&nbsp; </li>
                    <li><i style="font-size: 18px;" class="fa fa-envelope"></i> &nbsp;&nbsp;info@gdteckusa.com</li> -->
-                   <li style="color: #FFf;"><i class="fa fa-phone"></i>&nbsp;&nbsp;(971) 273-7878&nbsp;&nbsp;&nbsp;</li>
-                    <li style="color: #FFf;"><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@gdteckusa.com</li>
+                   <li style="color: #000;"><i class="fa fa-phone"></i>&nbsp;&nbsp;(971) 273-7878&nbsp;&nbsp;&nbsp;</li>
+                    <li style="color: #000;"><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@gdteckusa.com</li>
                 </ul>
               </div>
             </div>
@@ -282,7 +282,7 @@
                      <div id="footer_content" class="row">
                          <div class="col-md-3">
                              <div style="margin-bottom: 20px;" class="row">
-                                <a id="nav_logo" class="navbar-brand" href="/"></a></br>
+                                <a id="nav_logo_2" class="navbar-brand" href="/"></a></br>
                              </div>
                              <div class="row">
                                <p>GDTech USA</p>
