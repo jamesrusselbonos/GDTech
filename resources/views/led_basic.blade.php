@@ -41,5 +41,40 @@
         </div>
     </div>
 </div>
+     <div class="row">
+           <div class="catalog_processor">
+             <div class="row">
+               <div class="container">
+               <div class="row">
+                <div class="col-lg-12">
+                  <div class="cat_header">
+                     <h1> Processor</h1>
+                    <h4>ADVANCED &bull; STABLE &bull; SMART &bull; SIMPLE</h4>
+                  </div>
+                </div>
+               </div>
+               <div class="row">
+                 <div style="text-align: right; padding-top: 80px;" class="col-lg-3">
+                   <h3>Higher Color Spectrum & Resolution</h3>
+                 </div>
+                 <div class="col-lg-5">
+                   <div class="processor_img1"></div>
+                 </div>
+                 <div style="padding-top: 200px;" class="col-lg-4">
+                   <ul>
+                      <li>Stable Connectors</li>
+                      <li><strong>Bolder Output</strong> On Grays</li>
+                      <li><strong>Increased Brightness</strong> Output</li>
+                      <li>Screen Output Designed For <strong>Low Power Consumption</strong></li>
+                      <li>Auto Correction Wihin Circuit</li>
+                   </ul>
+                 </div>
+               </div>
+               </div>
+             </div>
+           </div>
+        </div>
+
+
     
 @endsection
