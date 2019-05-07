@@ -2,73 +2,104 @@
 
 @section('content')
    
-   <div class="jumbotron jumbotron-fluid">
+  <div class="row">
+    <div id="main_Carousel" class="carousel slide carousel-fade" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+         <!-- <li data-target="#myCarousel" data-slide-to="5"></li> -->
+      </ol>
 
-     <!--   <video autoplay muted loop poster="https://dummyimage.com/900x400/000/fff">    
-           <source src="" data-src="/img/Times Square NYC LED Billboards.mp4" type="video/mp4">
-           <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/webm">
-           <source src="" data-src="https://www.youtube.com/watch?v=F1B9Fk_SgI0&list=RDMMF1B9Fk_SgI0&start_radio=1" type="video/ogg">
-       </video> -->
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item ad1 active">
+      <!--     <img src="/img/slide_bg1.jpg" alt="Chania"> -->
+          <div id="ad1_caption" class="carousel-caption">
+          <h1 class="animated  fadeInDown delay-1s">Global Dynamic Technology</h1>
+          <h2 class="animated  fadeInDown delay-1s">BRIGHTER | SHARPER | BOLDER | BETTER</h2>
+          <div class="ad1_img center animated  fadeInUp delay-1s"></div>
+          </div>
+        </div>
 
-         <div class="container text-white">
-
-            <div style="padding-top: 150px;" class="col-lg-7">
-               <h1 class="display-4">Global Dynamic Technology</h1>
-               <p class="lead">Introducing GDTech High Resolution LED signs. Smaller, Brighter, Bolder, Stronger, Better. We simply have a more advanced technology. </p>
-              <!--  <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a> -->
-
-            </div>
-            <divs class="col-lg-5">
-          <!--     <div id="j_carousel" class="carousel slide carousel-fade" data-ride="carousel" > -->
-                <!-- Indicators -->
-                <!-- <ol class="carousel-indicators">
-                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                  <li data-target="#myCarousel" data-slide-to="1"></li>
-                  <li data-target="#myCarousel" data-slide-to="2"></li>
-                </ol> -->
-
-                <!-- Wrapper for slides -->
-              <!--   <div class="carousel-inner">
-                  <div class="item active">
-                    <img src="/img/product_slide1.png" alt="Los Angeles"> -->
-                   <!--  <div class="carousel-caption">
-                       <h3>Los Angeles</h3>
-                       <p>LA is always so much fun!</p>
-                     </div> -->
-        <!--           </div> -->
-
-              <!--     <div class="item">
-                    <img src="/img/product_slide2.png" alt="Chicago"> -->
-                   <!--  <div class="carousel-caption">
-                       <h3>Los Angeles</h3>
-                       <p>LA is always so much fun!</p>
-                     </div> -->
-                <!--   </div> -->
-
-               <!--    <div class="item">
-                    <img src="/img/product_slide3.png" alt="New York"> -->
-                    <!-- <div class="carousel-caption">
-                       <h3>Los Angeles</h3>
-                       <p>LA is always so much fun!</p>
-                     </div> -->
-               <!--    </div>
-                </div>
- -->
-                <!-- Left and right controls -->
-              <!--   <a class="left carousel-control" href="#j_carousel" data-slide="prev">
-                  <span class="glyphicon glyphicon-chevron-left"></span>
-                  <span class="sr-only">Previous</span>
-                </a>
-                <a class="right carousel-control" href="#j_carousel" data-slide="next">
-                  <span class="glyphicon glyphicon-chevron-right"></span>
-                  <span class="sr-only">Next</span>
-                </a> -->
+        <div class="item ad2">
+       <!--    <img src="/img/bg.jpg" alt="Chicago"> -->
+          <div id="ad_caption" class="carousel-caption">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="ad2_img animated  fadeInLeft delay-1s"></div>
+              </div>
+              <div style="padding-top: 100px;" class="col-lg-5">
+                <h1 class="animated  fadeInRight delay-1s">+ 400 %</h1>
+                <h2 class="animated  fadeInRight delay-1s">MORE COLORS</h2>
               </div>
             </div>
-         </div>
-         <!-- /.container -->
-       </div>
-       <!-- /.jumbotron -->
+          </div>
+        </div>
+
+         <div class="item ad3">
+     <!--      <img src="/img/bg.jpg" alt="Chicago"> -->
+          <div  id="ad_caption" class="carousel-caption">
+          <div class="row">
+            <div style="padding-top: 100px;" class="col-lg-5">
+              <h1 class="animated  fadeInRight delay-1s">+ 40 %</h1>
+              <h2 class="animated  fadeInRight delay-1s">BRIGHTER</h2>
+            </div>
+              <div class="col-lg-6">
+                <div class="ad3_img animated  fadeInLeft delay-1s"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+         <div class="item ad4">
+       <!--    <img src="/img/bg.jpg" alt="Chicago"> -->
+          <div   id="ad_caption" class="carousel-caption">
+           <div class="row">
+              <div class="col-lg-6">
+                <div class="ad2_img animated  fadeInLeft delay-1s"></div>
+              </div>
+              <div style="padding-top: 100px;" class="col-lg-5">
+                <h1 class="animated  fadeInUp delay-1s">SHARPER</h1>
+                <h2 style="font-size: 40px; margin-top: -10px;" class="animated  fadeInUp delay-1s">BETTER CONTRAST</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="item ad5">
+         <!--  <img src="/img/bg.jpg" alt="New York"> -->
+          <div  id="ad_caption" class="carousel-caption">
+           <div class="row">
+            <div style="padding-top: 100px;" class="col-lg-5">
+              <h1 class="animated  fadeInLeft delay-1s">+ 400 %</h1>
+              <h2 class="animated  fadeInLeft delay-1s">MORE COLORS</h2>
+            </div>
+              <div class="col-lg-6">
+                <div class="ad3_img animated  fadeInRight delay-1s"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#main_Carousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#main_Carousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
     <div class="row">
              <div class="content_2">
                  <div class="container">
@@ -81,7 +112,119 @@
              </div>
         </div>
 
-        <div class="row">
+        <div style="padding-top: 50px;" class="row">
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="container">
+                   <div class="row">
+                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                         <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+                           <!-- Indicators -->
+                           <!-- <ol class="carousel-indicators">
+                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                             <li data-target="#myCarousel" data-slide-to="1"></li>
+                             <li data-target="#myCarousel" data-slide-to="2"></li>
+                           </ol> -->
+
+                           <!-- Wrapper for slides -->
+                           <div class="carousel-inner">
+                             <div class="item active">
+                               <img src="/img/ball-bling-blur-568948.jpg" alt="Los Angeles">
+                               <div class="carousel-caption">
+                                  <h3>Los Angeles</h3>
+                                  <p>LA is always so much fun!</p>
+                                </div>
+                             </div>
+
+                             <div class="item">
+                               <img src="/img/brass-bulb-classic-1112598.jpg" alt="Chicago">
+                               <div class="carousel-caption">
+                                  <h3>Los Angeles</h3>
+                                  <p>LA is always so much fun!</p>
+                                </div>
+                             </div>
+
+                             <div class="item">
+                               <img src="/img/bright-bulb-close-up-266688.jpg" alt="New York">
+                               <div class="carousel-caption">
+                                  <h3>Los Angeles</h3>
+                                  <p>LA is always so much fun!</p>
+                                </div>
+                             </div>
+                           </div>
+
+                           <!-- Left and right controls -->
+                           <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                             <span class="glyphicon glyphicon-chevron-left"></span>
+                             <span class="sr-only">Previous</span>
+                           </a>
+                           <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                             <span class="glyphicon glyphicon-chevron-right"></span>
+                             <span class="sr-only">Next</span>
+                           </a>
+                         </div>
+                       </div>
+                     </div>
+                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                      <div class="col-lg-12">
+                          <div class="row">
+                            <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
+                             <div class="image2_wrapper">
+                               <div class="image2">
+                                  <span>
+                                      <h3>Square 2</h3>
+                                      <p>Get more information about our LED signs and click the button to inquire now</p>
+                                  </span>
+                                </div>
+                             </div>
+                            </div>
+                          </div>
+                          <div class="row">
+                             <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
+                             <div class="image3_wrapper">
+                               <div class="image3">
+                                 <span>
+                                      <h3>Square 3</h3>
+                                      <p>Get more information about our LED signs and click the button to inquire now</p>
+                                  </span>
+                               </div>
+                             </div>
+                            </div>
+                       </div>
+                      </div>
+                     </div>
+                   </div>
+                   </div>
+                </div>
+              </div>
+
+              <div style="padding-bottom: 50px;" class="row">
+                <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> -->
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
+                          <div class="image4">
+                            <h3>Square 4></h3>
+                            <p>Get more information about our LED signs and click the button to inquire now</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
+                          <div class="image5">
+                            <h3>Square 5></h3>
+                            <p>Get more information about our LED signs and click the button to inquire now</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                <!-- </div> -->
+              </div>
+
+
+      <!--   <div class="row">
           <div class="col_about_us">
             <div class="container">
               <div class="col-lg-3">
@@ -98,7 +241,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="row">
             <div class="catalog_banner">

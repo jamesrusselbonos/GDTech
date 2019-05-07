@@ -23,7 +23,7 @@
 	padding-left: 30px;
 }
 #nav_links a{
-	color: #000;
+	color: #fff;
 
 	border-bottom: 3px solid transparent;
 }
@@ -33,7 +33,7 @@
 }
 #nav_logo{
 	width: 200px;
-	background-image: url("/img/logo_black.png");
+	background-image: url("/img/gdtek-logo-white.png");
 	background-size: cover;
 }
 .nav_logo_hover{
@@ -636,7 +636,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 
   	text-align:  center;
 
-    margin-top: -30px;
+    /*margin-top: -30px;*/
   }
    .content_2-5{
   	padding-top: 30px;
@@ -861,3 +861,102 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    .cat_header{
    text-align: center;
    }
+   #main_Carousel{
+      height: 800px;
+      width: 100%;
+   }
+   #main_Carousel .carousel-inner{
+       width: 100%;
+      max-height: 800px !important;
+
+    /*   -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;*/
+   }
+    .carousel-inner .item{
+       width: 100%;
+       height: 800px !important;
+
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+   }
+   .ad1 {
+    background: url("/img/slide_bg1.jpg") no-repeat center center fixed; 
+}
+.ad2 {
+    background: url("/img/bg.jpg") no-repeat center center fixed; 
+}
+.ad3 {
+    background: url("/img/bg.jpg") no-repeat center center fixed; 
+}
+.ad4 {
+    background: url("/img/bg.jpg") no-repeat center center fixed; 
+}
+.ad5 {
+    background: url("/img/bg.jpg") no-repeat center center fixed; 
+}
+#ad1_caption{
+  color: #a9a9a9;
+
+  margin-top: -120px;
+  padding-top: 0;
+
+  text-align: center;
+}
+#ad_caption{
+  color: #383838;
+
+  margin-top: -120px;
+  padding-top: 0;
+}
+#ad1_caption h1{
+  font-size: 60px;
+}
+#ad_caption h1{
+  font-size: 100px;
+}
+#ad_caption h2{
+  font-size: 50px;
+  margin-top: -10px;
+}
+.ad1_img{
+  height: 600px;
+  width: 600px;
+
+  margin-top: -30px;
+
+  background-image: url("/img/product.png") !important;
+  background-size: cover;
+
+  z-index: 5;
+}
+.ad2_img{
+  height: 700px;
+  width: 700px;
+
+  margin-top: -10px;
+
+  background-image: url("/img/product2.png") !important;
+  background-size: cover;
+
+  z-index: 5;
+}
+.ad3_img{
+  height: 700px;
+  width: 700px;
+
+  margin-top: -10px;
+
+  background-image: url("/img/product3.png") !important;
+  background-size: cover;
+
+  z-index: 5;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

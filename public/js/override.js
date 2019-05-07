@@ -12,9 +12,9 @@ $(window).scroll(function(){
       $('#nav_links li').css('color','#000');
      $('#nav_links li').css('transition','500ms ease');
  }else{
-     $('#nav_logo').css('color','#000');
-     $('#nav_links a').css('color','#000');
-      $('#nav_links li').css('color','#000');
+     $('#nav_logo').css('color','#fff');
+     $('#nav_links a').css('color','#fff');
+      $('#nav_links li').css('color','#fff');
      $('.navbar').removeClass('navbar_scroll');
      $('#nav_logo').removeClass('nav_logo_scroll');
      $('.navbar').css('box-shadow','none');

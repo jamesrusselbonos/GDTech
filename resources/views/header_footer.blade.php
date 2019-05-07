@@ -13,6 +13,8 @@
         <link rel="stylesheet" type="text/css" href="/css/swiper.css">
         <link rel="stylesheet" type="text/css" href="/css/swiper.min.css">
 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
          <script src="/js/swiper.js"></script>
         <script src="/js/swiper.min.js"></script>
 
@@ -53,8 +55,8 @@
               <ul style="margin-top: 1.5%;" id="nav_links" class="nav navbar-nav navbar-right">
                   <!--  <li class="fa fa-envelope ">&nbsp;&nbsp;(971) 273-7878 &nbsp;&nbsp;&nbsp;&nbsp; </li>
                    <li><i style="font-size: 18px;" class="fa fa-envelope"></i> &nbsp;&nbsp;info@gdteckusa.com</li> -->
-                   <li style="color: #000;"><i class="fa fa-phone"></i>&nbsp;&nbsp;(971) 273-7878&nbsp;&nbsp;&nbsp;</li>
-                    <li style="color: #000;"><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@gdteckusa.com</li>
+                   <li style="color: #fff;"><i class="fa fa-phone"></i>&nbsp;&nbsp;(971) 273-7878&nbsp;&nbsp;&nbsp;</li>
+                    <li style="color: #fff;"><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@gdteckusa.com</li>
                 </ul>
               </div>
             </div>
