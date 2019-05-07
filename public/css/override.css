@@ -54,11 +54,12 @@
   overflow: hidden;
 /*  background-color:black;*/
 
-  background-image: url("/img/bg.jpg") !important;
+  background-image: url("/img/bg2.jpg") !important;
   background-size: cover !important;
+  background-attachment: fixed;
 
   color: #000;
-  height: 700px;
+  height: 100vh;
   padding-top: 150px;
   padding-bottom: 100px;
 
@@ -628,9 +629,14 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   }
   .content_2{
   	padding-top: 30px;
-  	padding-bottom: 30px;
+  	padding-bottom:50px;
+
+    background-color: #282828;
+    color: #fff;
 
   	text-align:  center;
+
+    margin-top: -30px;
   }
    .content_2-5{
   	padding-top: 30px;
@@ -699,7 +705,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
     	width: 100%;
     	height: 900px;
 
-    	background-image: url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg");
+    	background-image: url("/img/bg.jpg");
     	background-size: cover;
 
     	background-attachment: fixed;
@@ -710,56 +716,74 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
     	text-align: center;
     	text-decoration: none;
 
-    	color: #fff;
+    	color: #000;
     }
     .categories a{
-    	color: #fff;
+    	color: #000;
     	cursor: pointer;
     }
      .categories a:hover{
-    	color: #fff;
+    	color: #FF4D00;
     	cursor: pointer;
 
     	text-decoration: none;
+    }
+    .cat_link{
+      color: #000 !important;
+      cursor: pointer;
+
+      font-weight: bolder;
+    }
+     .cat_link:hover{
+      color: #000;
+      cursor: pointer;
+
+      text-decoration: none;
     }
     .led_bulb_typess{
     	height: 500px;
     	width: 100%;
 
-    	background-image: url("/img/photo-1547378526-863ec732bc0c.jpg");
+    	/*background-image: url("/img/photo-1547378526-863ec732bc0c.jpg");
     	background-size: cover;
-    	background-position: center;
+    	background-position: center;*/
+
+      background-color: #c2c2c2;
 
     	text-align: center;
 
-    	padding-top: 230px;
+    	padding-top: 160px;
     }
     .water_proofing{
     	height: 500px;
     	width: 100%;
 
-    	background-image: url("/img/photo-1542405160221-f5b46efdb363.jpg");
+    /*	background-image: url("/img/photo-1542405160221-f5b46efdb363.jpg");
     	background-size: cover;
-    	background-position: center;
+    	background-position: center;*/
 
-    	text-align: center;
+      background-color: #c2c2c2;
 
-    	padding-top: 230px;
+      text-align: center;
+
+      padding-top: 160px;
     }
     .choosing_a_sign{
     	height: 500px;
     	width: 100%;
 
-    	background-image: url("/img/night-square.jpg");
+    /*	background-image: url("/img/night-square.jpg");
     	background-size: cover;
     	background-position: center;
+*/  
+    background-color: #c2c2c2;
 
-    	text-align: center;
+      text-align: center;
 
-    	padding-top: 230px;
+      padding-top: 160px;
     }
     .led_bulb_typess:hover, .water_proofing:hover, .choosing_a_sign:hover {
-    	padding-top: 200px;
+    	/*padding-top: 120px;*/
     	transform: scale(1.05);
 
     	transition: all 500ms ease;
@@ -770,7 +794,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    	text-align: center;
    }
    .col_about_us{
-    background-color: #e5e5e5;
+    background-color: #fff;
 
     padding-top: 50px;
     padding-bottom: 50px;
@@ -783,5 +807,57 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    #nav_logo_2{
       width: 200px !important;
       background-image: url("/img/gdtek-logo-white.png") !important;
-      background-size: cover !important;
+      background-size: inherit !important;
+   }
+   .catalog_banner{
+    background-image: url("/img/bg3.jpg") !important;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   width: 100%;
+
+    color: #000;
+    height: 500px;
+   }
+   .catalog_lamp{
+    background-image: url("/img/lamp_bg.jpg") !important;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   width: 100%;
+
+    color: #000;
+    height: 500px;
+   }
+   .catalog_banner img{
+    float: left;
+    padding-top: 200px;
+   }
+   .catalog_lamp img{
+    float: left;
+    padding-top: 200px;
+   }
+   .processor_img{
+      background-image: url("/img/processor.png") !important;
+       background-size: cover;
+
+       height: 500px;
+       width: 500px;
+
+       margin-top: -50px;
+   }
+   .catalog_processor li, .catalog_processor p, .catalog_processor ul{
+    font-size: 18px;
+    /*list-style-type: none;*/
+   }
+   .catalog_processor{
+    padding-top: 30px;
+    padding-bottom: 30px;
+   /* background-color: #FF4D00;
+    color: #fff;*/
+   }
+   .cat_header{
+   text-align: center;
    }

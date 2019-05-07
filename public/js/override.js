@@ -110,33 +110,36 @@ $(window).ready(function(){
     $(function() { // < handler start
         $(".led_bulb_typess").on({
             mouseenter: function() {
-                $(".led_basics").stop().css('background-image','url("/img/photo-1547378526-863ec732bc0c.jpg")');
-                 $(".led_basics").stop().css('transition', 'background-image 500ms ease');
+                $(".led_bulb_typess").stop().css('background-image','url("/img/photo-1547378526-863ec732bc0c.jpg")');
+                $(".led_bulb_typess").stop().css('color','#fff');
             },
             mouseleave: function() {
-                $(".led_basics").stop().css('background-image','url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg")');
+                $(".led_bulb_typess").stop().css('background-image','');
+                $(".led_bulb_typess").stop().css('color','#000');
             }
         })
     }); // < handler end
      $(function() { // < handler start
         $(".water_proofing").on({
             mouseenter: function() {
-                $(".led_basics").stop().css('background-image','url("/img/photo-1542405160221-f5b46efdb363.jpg")');
-                 $(".led_basics").stop().css('transition', 'background-image 500ms ease');
+                $(".water_proofing").stop().css('background-image','url("/img/photo-1542405160221-f5b46efdb363.jpg")');
+                $(".water_proofing").stop().css('color','#fff');
             },
             mouseleave: function() {
-                $(".led_basics").stop().css('background-image','url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg")');
+                $(".water_proofing").stop().css('background-image','');
+                $(".water_proofing").stop().css('color','#000');
             }
         })
     }); // < handler end
       $(function() { // < handler start
         $(".choosing_a_sign").on({
             mouseenter: function() {
-                $(".led_basics").stop().css('background-image','url("/img/night-square.jpg")');
-                 $(".led_basics").stop().css('transition', 'background-image 500ms ease');
+                $(".choosing_a_sign").stop().css('background-image','url("/img/night-square.jpg")');
+                $(".choosing_a_sign").stop().css('color','#fff');
             },
             mouseleave: function() {
-                $(".led_basics").stop().css('background-image','url("/img/gradient-grey-white-linear-1920x1080-c2-808080-ffffff-a-15-f-14.svg")');
+                $(".choosing_a_sign").stop().css('background-image','');
+                $(".choosing_a_sign").stop().css('color','#000');
             }
         })
     }); // < handler end
