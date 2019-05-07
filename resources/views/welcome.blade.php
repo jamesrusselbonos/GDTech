@@ -84,23 +84,14 @@
         <div class="row">
           <div class="col_about_us">
             <div class="container">
-              <div class="col-lg-2">
+              <div class="col-lg-3">
                 <h1>About GDTech</h1>
               </div>
-               <div class="col-lg-10">
-                <div class="col-md-6">
+               <div class="col-lg-9">
+                <div class="col-md-12">
                   <div class="row">
                     <div class="col-sm-12">
-                      <p>As a business owner, I've been interested in increasing my market share and increasing revenue. Bottom line, how can i increase revenue eddectively? The first problem i discovered was with my marketing budgets: there's so much bandwidth; so many good marketing options: social media, yellow pages online, newspaper, television, radio. As you know, social media, readio, etc. are great options. In researching these opportunities to effectively increase revenue, I came across LED sign technologies.</p>
-                      <p>The Small Business Admission's report on High Resolution LED Signs, released in 2001 on EMCs (Electronic Message Centers), states that a High Resolution LED sign is even more powerful than word of mouth and other advertising methods. The report summarized its conclusion that businesses will see 15% to 150% increase in revenue specifically from this type of LED sign.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="row">
-                    <div class="col-sm-12">
-                      <p>So i put in the work to solve the second problem: to find the best LED sign i could get. After researching, I found the best available, i purchasedit, installed it, and immediately saw an increase of a half a miillion dollars in revenue from the LED sign the first year, Combined with other marketing methods, revenue went through the roof! But, also immediately, i encountered my third problem: it had issues, and even ended up failing multiple times, frequently, from inferior technologies and materials. And i had the best product on the market!</p>
-                      <p>After reseaching globally LED sign products available and not finding anything better, i decided to resolve these problems: to put together a company, that offered a product that would not fail, that would not break, that would last, and that would actually stand up to weather and sunlight. After a long, rigorous road and significant investment, I worked with a team of engineers to develop a product that i can be proud, and in the process invented new ways of doing things to the tune of 11 new technology patents that we own. This transplates in to a product that blows the competition out of the water. Our resolution and sharpness are absolutely the best by far.</p>
+                      <p>Global Dynamic Technology (GDTEK) is dedicated to designing, manufacturing, and distributing cutting-edge technology. We are continuously expanding our innovative capabilities and pushing the limits of programmable LED signs. As an innovative leader in the design of the highest LED sign technology available, we use the best components, perform ongoing testing, and implement product enhancements. One of our current focuses in technology is our state-of-the-art LED panel designs and smart cloud-based software. For over 12 years, our manufacturing team has successfully designed, developed, manufactured and sold LED panels on four continents worldwide in over 80 countries and territories. We are a world class manufacturer with strict quality standards. GDTEK acquires leading technology from around the world. We research and develop the latest innovative technology, but we only implement the best cutting-edge technology into our product lines. We commit ourselves to always strive to produce the best, most reliable, energy efficient technology. We are inspiring the globe with GDTEK technology.</p>
                     </div>
                   </div>
                 </div>
@@ -158,7 +149,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <div class="container">
-                <div class="contact_header"><h2>Get in touch</h2></div>
+                <div class="contact_header"><h2>Want to know more?</h2></div>
             </div>
             </div>
         </div>
@@ -170,15 +161,11 @@
                         <div class="c_form">
                             <form action="">
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <!-- <label for="fname">First Name</label> -->
-                                        <input class="textbox" type="text" id="fname" name="firstname" placeholder="First Name">
+                                        <input class="textbox" type="text" id="name" name="name" placeholder="Name">
                                     </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                       <!--  <label for="fname">Last Name</label> -->
-                                        <input class="textbox" type="text" id="lname" name="lastname" placeholder="Last Name">
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <!-- <label for="pnumber">Phone Number</label> -->
                                         <input class="textbox" type="text" id="pnumber" name="phone_number" placeholder="Phone Number">
                                     </div>
@@ -208,8 +195,8 @@
                                        <div class="row">
                                          <div class="col-md-6">
                                              <!-- <label for="fname">First Name</label> -->
-                                             <input type="checkbox" name="vehicle1" value="Bike"> Contact me I am Interested in Purchasing<br>
-                                             <input type="checkbox" name="vehicle2" value="Car"> Request for Quotation, I am Ready to Purchase an LED Sign<br>
+                                               <input type="checkbox" name="vehicle1" value="Contact me ASAP, I'm interested in buying"> Contact me ASAP, I'm interested in buying<br>
+                                             <!-- <input type="checkbox" name="vehicle2" value="Car"> Request for Quotation, I am Ready to Purchase an LED Sign<br> -->
                                          </div>
                                        </div>
                                       <div class="row">

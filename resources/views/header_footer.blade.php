@@ -150,7 +150,7 @@
                   </div>
                   <div class="col-md-4">
                     <h4>How do i purchase an LED sign?</h4>
-                    <h5>Very simple, Please <a>Click Here</a> to get in touch with one of our Sales Teams Members.</h5>
+                    <h5>Very simple, Please <a data-toggle="modal" data-target="#contact_modal">Click Here</a> to get in touch with one of our Sales Teams Members.</h5>
                   </div>
                   <div class="col-md-4">
                     <h4>How do i see an in person demonstration?</h4>
@@ -207,20 +207,16 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                       
-                        <div class="contact_header"><h2>Get in touch</h2></div>
+                        <div class="contact_header"><h2>Want to know more?</h2></div>
                    
                     </div>
                 </div>  
                  <div class="row">
                    <form>
                      <div class="row">
-                       <div class="col-md-6">
+                       <div class="col-md-12">
                          <!-- <label for="fname">First Name</label> -->
-                         <input class="textbox" type="text" id="fname" name="firstname" placeholder="First Name">
-                       </div>
-                       <div class="col-md-6">
-                         <!--  <label for="fname">Last Name</label> -->
-                          <input class="textbox" type="text" id="lname" name="lastname" placeholder="Last Name">
+                         <input class="textbox" type="text" id="name" name="name" placeholder="Name">
                        </div>
                      </div>
                       <div class="row">
@@ -254,8 +250,8 @@
                           <div class="row">
                             <div class="col-md-12">
                                 <!-- <label for="fname">First Name</label> -->
-                                <input type="checkbox" name="vehicle1" value="Bike"> Contact me I am Interested in Purchasing<br>
-                                <input type="checkbox" name="vehicle2" value="Car"> Request for Quotation, I am Ready to Purchase an LED Sign<br>
+                                <input type="checkbox" name="vehicle1" value="Contact me ASAP, I'm interested in buying"> Contact me ASAP, I'm interested in buying<br>
+                            <!--     <input type="checkbox" name="vehicle2" value="Car"> Request for Quotation, I am Ready to Purchase an LED Sign<br> -->
                             </div>
                           </div>
                          <div class="row">
