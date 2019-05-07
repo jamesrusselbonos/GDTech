@@ -63,8 +63,8 @@
                 <div class="ad2_img animated  fadeInLeft delay-1s"></div>
               </div>
               <div style="padding-top: 100px;" class="col-lg-5">
-                <h1 class="animated  fadeInUp delay-1s">SHARPER</h1>
-                <h2 style="font-size: 40px; margin-top: -10px;" class="animated  fadeInUp delay-1s">BETTER CONTRAST</h2>
+                <h1 class="animated  fadeInRight delay-1s">SHARPER</h1>
+                <h2 style="font-size: 40px; margin-top: -10px;" class="animated  fadeInRight delay-1s">BETTER CONTRAST</h2>
               </div>
             </div>
           </div>
@@ -75,8 +75,8 @@
           <div  id="ad_caption" class="carousel-caption">
            <div class="row">
             <div style="padding-top: 100px;" class="col-lg-5">
-              <h1 class="animated  fadeInLeft delay-1s">+ 400 %</h1>
-              <h2 class="animated  fadeInLeft delay-1s">MORE COLORS</h2>
+              <h1 class="animated  fadeInLeft delay-1s">ZERO</h1>
+              <h2  style="font-size: 40px; margin-top: -10px;"  class="animated  fadeInLeft delay-1s">NOISE + DISTORTION</h2>
             </div>
               <div class="col-lg-6">
                 <div class="ad3_img animated  fadeInRight delay-1s"></div>
