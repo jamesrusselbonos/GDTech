@@ -71,9 +71,10 @@
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
-                      <div class="bulb_pic"></div>
+                     <!--  <div class="bulb_pic"></div> -->
                     </div>
-                    <div class="col-sm-6">
+                    <div class="col-sm-12">
+                         <i style="font-size: 40px;" class="far fa-lightbulb"></i>
                       <h5>SMD vs DIP</h5>
                       <p>There are two main bulb types used to display images on LED screens: DIP and SMD. Here are a few main variations on the key characteristics.</p>
                     </div>
@@ -86,9 +87,10 @@
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
-                      <div class="waterproofing"></div>
+                    <!--   <div class="waterproofing"></div> -->
                     </div>
-                    <div class="col-sm-6">
+                    <div class="col-sm-12">
+                         <i style="font-size: 40px;" class="fas fa-tint-slash"></i>
                       <h5>Water Proofing</h5>
                       <p>Our Led panels are all kept at a high standard of IP66 waterproofing. This allows us to have confidence that our panels can easily withstand all weather conditions rain or shine.</p>
                     </div>
@@ -101,9 +103,10 @@
                   </div>
                   <div class="row">
                     <div class="col-sm-6">
-                      <div class="sign"></div>
+                   <!--    <div class="sign"></div> -->
                     </div>
-                    <div class="col-sm-6">
+                    <div class="col-sm-12">
+                       <i style="font-size: 40px;" class="fas fa-chalkboard"></i>
                       <h5>Selecting the Right Sign</h5>
                       <p>Choosing the right sized LED model with proper resolution for your business depends on a few key questions</p>
                     </div>
