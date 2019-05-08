@@ -631,10 +631,21 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   	padding-top: 30px;
   	padding-bottom:50px;
 
+    background-color: #fff;
+    color: #000;
+
+  	text-align:  center;
+
+    /*margin-top: -30px;*/
+  }
+   .content_2-6{
+    padding-top: 30px;
+    padding-bottom:50px;
+
     background-color: #282828;
     color: #fff;
 
-  	text-align:  center;
+    text-align:  center;
 
     /*margin-top: -30px;*/
   }
@@ -644,7 +655,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 
   	text-align:  center;
   }
-  .content_2 a{
+  .content_2-6 a{
   	background-color: #FF4D00;
 	border: none;
 	border-radius: 30px;
