@@ -168,3 +168,11 @@ h3{font-size: 30px;}
        margin-left: 100px;
    }
 
+.processor_img2{
+      background-image: url("/img/DSC_0147.png") !important;
+       background-size: cover;
+       height: 300px;
+       width: 300px;
+       margin-top: 40px;
+       margin-left: 100px;
+   }
