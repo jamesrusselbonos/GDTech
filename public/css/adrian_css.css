@@ -10,7 +10,7 @@
   }
 
   .content_4  h3{text-align: center;}
-  h2{text-align: center;}
+  /*h2{text-align: center;}*/
 
  p { text-align: justify;
         font-size: 16px;
@@ -169,11 +169,11 @@ h3{font-size: 30px;}
    }
 
 .processor_img2{
-      background-image: url("/img/DSC_0147.png") !important;
+      background-image: url("/img/module.png") !important;
        background-size: cover;
-       height: 300px;
-       width: 300px;
-       margin-top: 40px;
+       height: 450px;
+       width: 450px;
+       margin-top: 0px;
        margin-left: 100px;
    }
    .col-md-6_6{width: 700px;}
@@ -185,7 +185,7 @@ h3{font-size: 30px;}
        margin-top: 40px;
        margin-left: 100px;
    }
-    .row_2{background-color: #c0c0c0;
+    .row_2{background-color: #fff;
 
               }
               .row_3{background-color: #c0c0c0;

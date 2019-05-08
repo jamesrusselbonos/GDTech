@@ -285,7 +285,7 @@
                  <div class="container">
                      <div id="footer_content" class="row">
                          <div class="col-md-3">
-                             <div style="margin-bottom: 20px;" class="row">
+                             <div class="row">
                                 <a id="nav_logo_2" class="navbar-brand" href="/"></a></br>
                              </div>
                              <div class="row">
@@ -333,7 +333,7 @@
                      </div>
              
                      <div class="row">
-                          <div style="padding-top: 20px; text-align: center;" class="col-md-12">
+                          <div style="text-align: center;" class="col-md-12">
                               <div id="social_media" class="row">
                                 <ul>
                                   <li><a id="social_icon" href="https://www.facebook.com/Global-Dynamic-Technology-LLC-563053140792049/" class="fa fa-facebook"></a></li>
@@ -451,7 +451,7 @@
            // Carousel Auto-Cycle
              $(document).ready(function() {
                $('.carousel').carousel({
-                 interval: 6000
+                 interval: 3000
                })
              });
         </script>

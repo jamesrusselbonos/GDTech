@@ -281,7 +281,7 @@
 }
 #footer_content{
 	border-bottom: 3px solid #5f5f5f;
-	padding-bottom: 80px;
+	padding-bottom: 30px;
 
 	color: #5f5f5f;
 }
@@ -433,23 +433,25 @@
 
 }
 .image2{
-	width: 100% !important;
-	height: 100% !important;
+  width: 100% !important;
+  height: 100% !important;
 
-	background-image: url("/img/bedroom-bulb-furniture-545048.jpg");
-	background-size: cover;
+  background-image: url("/img/bulb.png");
+  background-size: cover;
+  background-color: #c0c0c0;
 
-	 transition: all 0.5s ease;
+   transition: all 0.5s ease;
 }
 .image3{
-	width: 100% !important;
-	height: 100% !important;
+  width: 100% !important;
+  height: 100% !important;
 
-	background-image: url("/img/night-square.jpg");
-	background-size: cover;
+  background-image: url("/img/widget4.png");
+  background-size: cover;
+ background-color: #c0c0c0;
 
-	 transition: all 0.5s ease;
-	 color: #fff;
+   transition: all 0.5s ease;
+   color: #fff;
 }
 .image2_wrapper:hover .image2,
 .image2_wrapper:focus .image2 {
@@ -457,15 +459,15 @@
 }
 .image2:hover span,
 .image2:focus span {
- 	/*padding: 28% 30px 0px 30px;*/
- 	  padding: 30% 40px 0px 40px;
- 	  display: block;
+  /*padding: 28% 30px 0px 30px;*/
+    padding: 30% 40px 0px 40px;
+    display: block;
 }
 .image2 span{
 
-	  padding: 30% 40px 0px 40px;
-	  position: absolute;
-	  /*display: none;*/
+    padding: 30% 40px 0px 40px;
+    position: absolute;
+    /*display: none;*/
 }
 .image3_wrapper:hover .image3,
 .image3_wrapper:focus .image3 {
@@ -473,53 +475,53 @@
 }
 .image3:hover span,
 .image3:focus span {
- 	/*padding: 28% 30px 0px 30px;*/
- 	  padding: 30% 40px 0px 40px;
- 	  display: block;
+  /*padding: 28% 30px 0px 30px;*/
+    padding: 30% 40px 0px 40px;
+    display: block;
 }
 .image3 span{
 
-	   padding: 30% 40px 0px 40px;
-	  position: absolute;
+     padding: 30% 40px 0px 40px;
+    position: absolute;
 }
 .image4{
-	width: 100%;
-	height: 200px;
+  width: 100%;
+  height: 200px;
 
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 
-	background-image: url("/img/brass-bulb-classic-1112598.jpg");
-	background-size: cover;
+  background-image: url("/img/widet3.png");
+  background-size: cover;
+ background-color: #c0c0c0;
+  padding-left: 20px;
+  padding-right: 20px;
 
-	padding-left: 20px;
-	padding-right: 20px;
-
-	padding-top: 80px;
+  padding-top: 80px;
 }
 .image4:hover{
-	padding-top: 60px;
+  padding-top: 60px;
 
-	transition: padding-top 0.5s ease;
+  transition: padding-top 0.5s ease;
 }
 .image5:hover{
-	padding-top: 60px;
+  padding-top: 60px;
 
-	transition: padding-top 0.5s ease;
+  transition: padding-top 0.5s ease;
 }
 .image5{
-	width: 100%;
-	height: 200px;
+  width: 100%;
+  height: 200px;
 
-	background-image: url("/img/bright-bulb-close-up-266688.jpg");
-	background-size: cover;
+  background-image: url("/img/widget2.png");
+  background-size: cover;
+ background-color: #c0c0c0;
+  padding-left: 20px;
+  padding-right: 20px;
 
-	padding-left: 20px;
-	padding-right: 20px;
-
-	padding-top: 80px;
+  padding-top: 80px;
 }
 .carousel-inner img{
-	height: 100%;
+	height: 100% !important;
 }
 .carousel-caption{
 	margin-top: 200px;
@@ -821,31 +823,61 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
       background-size: inherit !important;
    }
    .catalog_banner{
-    background-image: url("/img/bg3.jpg") !important;
+    background-image: url("/img/slide_bg1.jpg") !important;
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
-   background-attachment: fixed;
+   /*background-attachment: fixed;*/
    width: 100%;
 
     color: #000;
     height: 500px;
+   }
+   .cat_banner_img{
+      background-image: url("/img/product3.png") !important;
+       background-size: cover;
+
+       width: 500px;
+       height: 500px;
+   }
+   .gd_text{
+
+    margin-top: 50px;
+
+    height: 300px;
+    width: 500px;
+
+     background-image: url("/img/cat_img.png") !important;
+      background-size: cover;
    }
    .catalog_lamp{
-    background-image: url("/img/lamp_bg.jpg") !important;
-   background-size: cover;
+   /* background-image: url("/img/bg.jpg") !important;*/
+/*   background-size: cover;
    background-repeat: no-repeat;
-   background-position: center;
-   background-attachment: fixed;
+   background-position: center;*/
+ /*  background-attachment: fixed;*/
+
+ background-color: #fff;
    width: 100%;
 
     color: #000;
     height: 500px;
    }
-   .catalog_banner img{
+   .catalog_cabinet{
+     background-image: url("/img/slide_bg1.jpg") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    color: #c0c0c0;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+   }
+   /*.catalog_banner img{
     float: left;
     padding-top: 200px;
-   }
+   }*/
    .catalog_lamp img{
     float: left;
     padding-top: 200px;
@@ -974,3 +1006,101 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   margin-left: auto;
   margin-right: auto;
 }
+.feature_item{
+      background-image: url("/img/product2.png") !important;
+       background-size: cover;
+
+       height: 500px;
+       width: 500px;
+
+       margin-top: 20px;
+
+       float: right;
+  }
+ .feature_img1{
+      background-image: url("/img/feature_img1.png") !important;
+       background-size: cover;
+
+       height: 150px;
+       width: 150px;
+
+       margin-top: 20px;
+
+       float: right;
+   }
+   .feature_img2{
+      background-image: url("/img/feature_img2.png") !important;
+       background-size: cover;
+
+       height: 150px;
+       width: 150px;
+
+       float: right;
+
+   }
+   .feature_img3{
+      background-image: url("/img/feature_img3.png") !important;
+       background-size: cover;
+
+       height: 150px;
+       width: 150px;
+   }
+   .feature_img4{
+      background-image: url("/img/feature_img4.png") !important;
+       background-size: cover;
+
+       height: 150px;
+       width: 150px;
+
+        float: right;
+   }
+   .feature_img5{
+      background-image: url("/img/feature_img5.png") !important;
+       background-size: cover;
+
+       height: 150px;
+       width: 150px;
+   }
+   .catalog_module{
+        background-image: url("/img/slide_bg1.jpg") !important;
+       background-size: cover;
+
+       color: #c0c0c0;
+
+       padding-top: 30px;
+       padding-bottom: 30px;
+   }
+    .catalog_module li, .catalog_module p, .catalog_module ul{
+    font-size: 18px;
+    /*list-style-type: none;*/
+    margin-top: 10px; 
+   }
+     .catolog_lamp li, .catolog_lamp p, .catolog_lamp ul{
+    font-size: 18px;
+    /*list-style-type: none;*/
+    margin-top: 10px; 
+   }
+   .catalog_cabinet li{
+    font-size: 18px;
+    margin-top: 30px;
+   }
+   .cat_feature ul{
+    list-style-type: none;
+   }
+   .cat_feature{
+    padding-top: 0px;
+    padding-bottom: 30px;
+
+    background-image: url("/img/bg.jpg") !important;
+    background-size: cover;
+   }
+   .cat_feature li{
+    margin-left: -20px;
+   }
+   .catalog_cabinet h4,{
+      font-size: 20px;
+   }
+   .catolog_lamp{
+    padding-top: 30px;
+    padding-bottom: 30px;
+   }

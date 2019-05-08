@@ -127,28 +127,28 @@
                            </ol> -->
 
                            <!-- Wrapper for slides -->
-                           <div class="carousel-inner">
-                             <div class="item active">
-                               <img src="/img/ball-bling-blur-568948.jpg" alt="Los Angeles">
+                           <div style =" "class="carousel-inner">
+                            <div class="item active">
+                               <img src="/img/bg2.jpg" alt="Los Angeles">
                                <div class="carousel-caption">
-                                  <h3>Los Angeles</h3>
-                                  <p>LA is always so much fun!</p>
+                                  <h3></h3>
+                                  <p></p>
                                 </div>
                              </div>
 
                              <div class="item">
-                               <img src="/img/brass-bulb-classic-1112598.jpg" alt="Chicago">
+                               <img src="/img/bg3.jpg" alt="Chicago">
                                <div class="carousel-caption">
-                                  <h3>Los Angeles</h3>
-                                  <p>LA is always so much fun!</p>
+                                  <h3></h3>
+                                  <p></p>
                                 </div>
                              </div>
 
                              <div class="item">
-                               <img src="/img/bright-bulb-close-up-266688.jpg" alt="New York">
+                               <img src="/img/bg2.jpg" alt="New York">
                                <div class="carousel-caption">
-                                  <h3>Los Angeles</h3>
-                                  <p>LA is always so much fun!</p>
+                                  <h3></h3>
+                                  <p></p>
                                 </div>
                              </div>
                            </div>
@@ -172,8 +172,8 @@
                              <div class="image2_wrapper">
                                <div class="image2">
                                   <span>
-                                      <h3>Square 2</h3>
-                                      <p>Get more information about our LED signs and click the button to inquire now</p>
+                                      <h3></h3>
+                                      <p></p>
                                   </span>
                                 </div>
                              </div>
@@ -184,8 +184,8 @@
                              <div class="image3_wrapper">
                                <div class="image3">
                                  <span>
-                                      <h3>Square 3</h3>
-                                      <p>Get more information about our LED signs and click the button to inquire now</p>
+                                     <h3></h3>
+                                      <p></p>
                                   </span>
                                </div>
                              </div>
@@ -205,16 +205,16 @@
                       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
                           <div class="image4">
-                            <h3>Square 4></h3>
-                            <p>Get more information about our LED signs and click the button to inquire now</p>
+                           <h3></h3>
+                            <p></p>
                           </div>
                         </div>
                       </div>
                       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12">
                           <div class="image5">
-                            <h3>Square 5></h3>
-                            <p>Get more information about our LED signs and click the button to inquire now</p>
+                           <h3></h3>
+                            <p></p>
                           </div>
                         </div>
                       </div>
@@ -222,6 +222,7 @@
                   </div>
                 <!-- </div> -->
               </div>
+
 
 
       <!--   <div class="row">
@@ -247,14 +248,73 @@
             <div class="catalog_banner">
               <div class="row">
                 <div class="container">
-                  <img src="/img/cat_img.png">
+                <div class="row">
+                   <div class="col-md-6">
+                    <div class="gd_text"></div>
+                   </div>
+                    <div class="col-lg-6">
+                       <div class="cat_banner_img"></div>
+                   </div>
                 </div>
               </div>
             </div>
         </div>
 
         <div class="row">
-           <div class="catalog_processor">
+          <div class="cat_feature">
+            <div class="container">
+              <div class="row">
+                <div class="cat_header">
+                 <div style="padding-top: 30px;" class="col-lg-12">
+                   <h1>Features</h1>
+                   <h4>BEST IN THE INDUSTRY</h4>
+                 </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="feature_item"></div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="feature_img1 "></div>
+                    </div>
+                    <div class="col-md-6">
+                      <h4><strong>UV LIGHT RESISTANT</strong></h4>
+                      <h5>Despite Prolonged Exposure To UV Light,</h5>
+                      <h5>GD Tech Boards Maintain:</h5>
+
+                      <ul>
+                        <li><i class="fas fa-eye"></i>&nbsp; Exact Clarity Of Image</li>
+                        <li><i class="fas fa-check-circle"></i>&nbsp; Exact Clarity Of Image</li>
+                      </ul>
+
+                      <h5>+ Design Holds/Absorbs Near-Zero Energy</h5>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="row">
+                      <div class="col-md-6"><div class="feature_img2"></div></div>
+                      <div class="col-md-6"><div class="feature_img3"></div></div>
+                    </div>
+                    <div class="row">
+                       <div class="col-md-6"><div class="feature_img4"></div></div>
+                      <div class="col-md-6"><div class="feature_img5"></div></div>
+                    </div>
+                  </div>
+                <!--   <div class="row"></div> -->
+                </div>
+              </div>
+             <!--  <div class="row">
+                
+              </div> -->
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+           <div class="catalog_module">
              <div class="row">
                <div class="container">
                <div class="row">
@@ -266,7 +326,7 @@
                 </div>
                </div>
                <div class="row">
-                 <div style="text-align: left; padding-top: 80px;" class="col-lg-3">
+                <!--  <div style="text-align: left; padding-top: 80px;" class="col-lg-3">
                   <ul>
                       <li>Stablized Signal Connector</li>
                       <li>Super Heat Dissipation</li>
@@ -274,12 +334,13 @@
                       <li>Rated For All Climates</li>
                      
                    </ul>
-                 </div>
-                 <div class="col-lg-5">
-                   <div class="processor_img2"></div>
-                 </div>
-                 <div style="padding-top: 200px;" class="col-lg-4">
+                 </div> -->
+                 <div style="padding-top: 80px;" class="col-lg-6">
                    <ul>
+                      <li>Stablized Signal Connector</li>
+                      <li>Super Heat Dissipation</li>
+                      <li>Layout & Design Produced High Contrast</li>
+                      <li>Rated For All Climates</li>
                       <li>Materials Fussion Seals Circuit</li>
                       <li>Aluminum Frame protects PCB Layout</li>
                       <li>Thermo Paste<strong> Ensure Operation Boiling Water</strong></li>
@@ -287,152 +348,127 @@
                       <li><strong>Fire Rating Protection</strong></li>
                    </ul>
                  </div>
-               </div>
-               </div>
-             </div>
-           </div>
-        </div>
-            
-            <hr>
-            
-          <div class="row_2">
-           <div class="catalog_processor">
-             <div class="row">
-               <div class="container">
-               <div class="row">
-                <div class="col-lg-12">
-                  <div class="cat_header">
-                     <h1> Processor</h1>
-                    <h4>ADVANCED &bull; STABLE &bull; SMART &bull; SIMPLE</h4>
-                  </div>
-                </div>
-               </div>
-               <div class="row">
-                 <div style="text-align: right; padding-top: 80px;" class="col-lg-3">
-                   <h3>Higher Color Spectrum & Resolution</h3>
-                 </div>
-                 <div class="col-lg-5">
-                   <div class="processor_img1"></div>
-                 </div>
-                 <div style="padding-top: 200px;" class="col-lg-4">
-                   <ul>
-                      <li>Stable Connectors</li>
-                      <li><strong>Bolder Output</strong> On Grays</li>
-                      <li><strong>Increased Brightness</strong> Output</li>
-                      <li>Screen Output Designed For <strong>Low Power Consumption</strong></li>
-                      <li>Auto Correction Wihin Circuit</li>
-                   </ul>
-                 </div>
-               </div>
-               </div>
-             </div>
-           </div>
-        </div>
-
-              <hr>
-
-          <div class="row">
-           <div class="catalog_processor">
-             <div class="row">
-               <div class="container">
-               <div class="row">
-                <div class="col-lg-12">
-                  <div class="cat_header">
-                     <h1>Cabinet</h1>
-                  <h1 style="text-align: center;font-size: 13px;">Standard Led Signs whither under Heat and Light of the sun.</h1>
-                  <h1 style="text-align: center;font-size: 13px;margin-top: -10px;"><strong>Gdtect's Cabinet Remains Unchanged after 15 years without the use as a constantly failing fan system.</strong></h1>
-                    
-                  </div>
-                </div>
-               </div>
-               <div class="row">
-                 <div style="text-align: left; padding-top: 80px;" class="col-lg-3">
-                  <div class="row">
-                     <div class="col-md-6_6"> <p><i class="fas fa-bolt" style="font-size: 50px;margin-left: 5%"></i>LOW ENERGY</</p></div>
-                      </div>
-                          <hr>
-                   <ul>
-                      <li><strong>Minimal Energy Use:</strong> The power Consumption is 25% (1/4) of Competion.</li>
-                      <li><strong>No air cinditioning Rquired.</li></strong>
-                     </li>
-                 </div>
-                 <div class="col-lg-5">   
+                 <div class="col-lg-6">
                    <div class="processor_img2"></div>
                  </div>
-                 <div style="padding-top: 200px;" class="col-lg-4">
-             
-                          <div class="row">
-                            
-                           
-                             <div class="col-md-6"> <p><i class="fas fa-thermometer-empty" style="font-size: 50px;"></i> LOW HEAT</p></div>
-                     
-                          </div>
-                               <hr>
-                   <ul>
-                     
-                      <li><strong>Superior Cast Aluminum Case:</strong> Fully Dissipate Heat, In addition To Lamp and Module.</strong></li>
-                      <li><strong>Completely Encasing</strong> For Protection Against Weather:Water (IP68
-                      -Highest Waterproof Rating), Ultraviolet Light, High winds, High Temperature, and Salty Marine Environments.</strong></li>
-                      
-                   </ul>
-                 </div>
                </div>
                </div>
              </div>
+           </div>
+        </div>
+
+        <div class="row_2">
+                   <div class="catalog_processor">
+                     <div class="row">
+                       <div class="container">
+                       <div class="row">
+                        <div class="col-lg-12">
+                          <div class="cat_header">
+                             <h1> Processor</h1>
+                            <h4>ADVANCED &bull; STABLE &bull; SMART &bull; SIMPLE</h4>
+                          </div>
+                        </div>
+                       </div>
+                       <div class="row">
+                         <!-- <div style="text-align: right; padding-top: 80px;" class="col-lg-3">
+                         </div> -->
+                         <!-- <div style="float:right;"> -->
+                         <div class="col-lg-4" style="padding-left: 100px; padding-bottom: 20px;">
+                           <div class="processor_img1"></div>
+                         </div>
+                         <div class="col-lg-2">
+                       </div>
+                         <div style="padding-top: 40px;" class="col-lg-6">
+                            <h3>Higher Color Spectrum & Resolution</h3> </br>
+                           <ul>
+                              <li>Stable Connectors</li>
+                              <li><strong>Bolder Output</strong> On Grays</li>
+                              <li><strong>Increased Brightness</strong> Output</li>
+                              <li>Screen Output Designed For <strong>Low Power Consumption</strong></li>
+                              <li>Auto Correction Wihin Circuit</li>
+                           </ul>
+                         </div>
+                         <!-- </div> -->
+                       </div>
+                       </div>
+                     </div>
+                   </div>
+                </div>
+            
+          <div class="row">
+           <div class="catalog_cabinet">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="cat_header">
+                    <h1>Cabinet</h1>
+                    <h4>Standard Led Sign Whither Under Heat And Light Of The Sun</h4>
+                    <h4><strong>GDtech's Cabinets Remains Unchanged After 15 Years Without The Use Of A Constantly Failing Fan System</strong></h4>
+                  </div>
+                </div>
+              </div>
+              <div style="margin-top: 100px;" class="row">
+                <div class="col-lg-6"><div class="feature_item"></div></div>
+                <div class="col-lg-6">
+                  <div style="border: solid; border-width: 3px; border-color: #c0c0c0; text-align: center; " class="row">
+                    <div>
+                      <div class="col-md-6">
+                        <h3 style="font-size: 20px;"><i class="fas fa-temperature-low"></i>&nbsp; LOW HEAT</h3>
+                      </div>
+                      <div class="col-md-6">
+                        <h3 style="font-size: 20px;"><i class="fas fa-bolt"></i>&nbsp; LOW ENERGY</h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <ul>
+                      <li><strong>Minimal Energy Use:</strong> The Power Consumption Is 25% (1/4) Of Competition</li>
+                      <li><strong>No Air Conditioning</strong> Required</li>
+                      <li><strong>Superior Cast Aluminum Case:</strong> Fully Dissipates Heat, In Addition To Lamp And Module</li>
+                      <li><strong>Completely Encasing</strong> For Protection Against Weather: Water (IP68 - Highest Waterproof Rating), Ultraviolet Light, High Winds, High Temperature, And Salty Marine Environments</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
            </div>
         </div>
             
-            <hr><div class="row_3">
-           <div class="catalog_processor">
-             <div class="row">
-               <div class="container">
-               <div class="row">
-                <div class="col-lg-12">
-                  <div class="cat_header">
-                     <h1>LAMP</h1>
-                    
+         <div class="row">
+                  <div class="catolog_lamp">
+                      <div class="container">
+                       <div class="row">
+                         <div class="col-lg-12">
+                           <div class="cat_header">
+                             <h1>Lamp</h1>
+                           </div>
+                         </div>
+                       </div>
+                       <div class="row">
+                         <div class="col-lg-6">
+                             <div class="cat_banner_img"></div>
+                         </div>
+                        <div style="margin-top: 30px;" class="col-lg-6">
+                          <h3 style="font-size: 24px;"><strong><i class="far fa-sun"></i>&nbsp; BRIGHTEST SMD LAMP ON THE MARKET</strong></h3>
+                          <ul>
+                           <li>Smaller Lamp Dimention</li>
+                           <li>No Reflection - Encapsulation</li>
+                           <li>High Efficiency Lightning</li>
+                           <li>Three Colors (RGB) In Each Resolution</li>
+                           <li>Tighter Spacing For Higher Resolution</li>
+                           <li>Controlled Production Removes Variables</li>
+                           <li>SMD Lamp Vs. DIP</li>
+                           <li>Patented Round Shapet</li>
+                           <li>Oxygen Free Encapsulation</li>
+                           <li>Multiple Module Redundancy</li>
+                                                 
+                          </ul>
+                        </div>
+                       </div>
+                      </div>
                   </div>
-                </div>
-               </div>
-               <div class="row">
-                 <div style="text-align: left; padding-top: 80px;" class="col-lg-3">
-
-                  
-                  <ul>
-                      <li>Smaller Lamp Dimention</li>
-                      <li>No Reflection - Encapsulation</li>
-                      <li>High Efficiency Lightning</li>
-                      <li>Three Colors (RGB) In Each Resolution</li>
-                      <li>Tighter Spacing For Higher Resolution</li>
-                      <li>Controlled Production Removes Variables</li>
-                     
-                   </ul>
-                 </div>
-                 <div class="col-lg-5">
-
-                   <div class="processor_img3"></div>
-                 </div>
-                 <div style="padding-top: 200px;" class="col-lg-4">
-                  <div class="row">
-                            
-                           
-                             <div class="col-md-6"> <p><i class="far fa-sun" style="font-size: 50px;"></i> BRIGHTEST SMD LAMP ON THE MARKET</p></div>
-                     
-                          </div>
-                               <hr>
-                   <ul>
-                      <li>SMD Lamp Vs. DIP</li>
-                      <li>Patented Round Shapet</li>
-                      <li>Oxygen Free Encapsulation</li>
-                      <li>Multiple Module Redundancy</li>
-                      
-                   </ul>
-                 </div>
-               </div>
-               </div>
              </div>
-           </div>
-        </div>
+
 
 
    <!--  <div class="contact_form">
