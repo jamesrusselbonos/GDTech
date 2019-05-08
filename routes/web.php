@@ -43,5 +43,8 @@ Route::get('/water_proofing', function () {
 Route::get('/led_basic', function () {
     return view('led_basic');
 });
+Route::get('/contact_us', function () {
+    return view('contact_us');
+});
 
 
