@@ -4,8 +4,8 @@
 
 
 
-<div class="hero-image">
-     <img src="/img/photo-1542405160221-f5b46efdb363.jpg" alt="Snow" style="width:100%;max-height: 600px;">
+<div style="height: 500px;" class="hero-image">
+     <img src="/img/contact.jpeg" alt="Snow" style="width:100%;max-height: 500px;">
  <div class="hero-text">
     <h1 style="font-size:35px">Contact Us</h1>
     <a href="/" style="color: #fff">Home</a> / <a href="/contact_us" style="color: #fff">Contact Us</a>
