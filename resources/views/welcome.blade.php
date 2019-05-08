@@ -295,7 +295,7 @@
             
             <hr>
             
-            <div class="row">
+          <div class="row_2">
            <div class="catalog_processor">
              <div class="row">
                <div class="container">
@@ -331,7 +331,7 @@
 
               <hr>
 
-                <div class="row">
+          <div class="row">
            <div class="catalog_processor">
              <div class="row">
                <div class="container">
@@ -348,12 +348,9 @@
                <div class="row">
                  <div style="text-align: left; padding-top: 80px;" class="col-lg-3">
                   <div class="row">
-                            
-                            
-                            <div class="col-md-6_6"> <p><i class="fas fa-bolt" style="font-size: 50px;margin-left: 5%"></i>LOW ENERGY</</p></div>
-                     
-                          </div>
-                               <hr>
+                     <div class="col-md-6_6"> <p><i class="fas fa-bolt" style="font-size: 50px;margin-left: 5%"></i>LOW ENERGY</</p></div>
+                      </div>
+                          <hr>
                    <ul>
                       <li><strong>Minimal Energy Use:</strong> The power Consumption is 25% (1/4) of Competion.</li>
                       <li><strong>No air cinditioning Rquired.</li></strong>
@@ -385,7 +382,57 @@
            </div>
         </div>
             
-            <hr>
+            <hr><div class="row_3">
+           <div class="catalog_processor">
+             <div class="row">
+               <div class="container">
+               <div class="row">
+                <div class="col-lg-12">
+                  <div class="cat_header">
+                     <h1>LAMP</h1>
+                    
+                  </div>
+                </div>
+               </div>
+               <div class="row">
+                 <div style="text-align: left; padding-top: 80px;" class="col-lg-3">
+
+                  
+                  <ul>
+                      <li>Smaller Lamp Dimention</li>
+                      <li>No Reflection - Encapsulation</li>
+                      <li>High Efficiency Lightning</li>
+                      <li>Three Colors (RGB) In Each Resolution</li>
+                      <li>Tighter Spacing For Higher Resolution</li>
+                      <li>Controlled Production Removes Variables</li>
+                     
+                   </ul>
+                 </div>
+                 <div class="col-lg-5">
+
+                   <div class="processor_img3"></div>
+                 </div>
+                 <div style="padding-top: 200px;" class="col-lg-4">
+                  <div class="row">
+                            
+                           
+                             <div class="col-md-6"> <p><i class="far fa-sun" style="font-size: 50px;"></i> BRIGHTEST SMD LAMP ON THE MARKET</p></div>
+                     
+                          </div>
+                               <hr>
+                   <ul>
+                      <li>SMD Lamp Vs. DIP</li>
+                      <li>Patented Round Shapet</li>
+                      <li>Oxygen Free Encapsulation</li>
+                      <li>Multiple Module Redundancy</li>
+                      
+                   </ul>
+                 </div>
+               </div>
+               </div>
+             </div>
+           </div>
+        </div>
 
 
    <!--  <div class="contact_form">

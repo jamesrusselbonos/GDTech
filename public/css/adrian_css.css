@@ -177,3 +177,18 @@ h3{font-size: 30px;}
        margin-left: 100px;
    }
    .col-md-6_6{width: 700px;}
+   .processor_img3{
+      background-image: url("/img/bulb.png") !important;
+       background-size: cover;
+       height: 300px;
+       width: 300px;
+       margin-top: 40px;
+       margin-left: 100px;
+   }
+    .row_2{background-color: #c0c0c0;
+
+              }
+              .row_3{background-color: #c0c0c0;
+
+              }
+
