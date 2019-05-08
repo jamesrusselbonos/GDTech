@@ -101,7 +101,7 @@
   </div>
 
     <div class="row">
-             <div class="content_2">
+             <div class="content_2-6">
                  <div class="container">
                      <div class="col-lg-12">
                          <h2>Inspiring the Globe with GDTEK Technology</h2>
@@ -347,7 +347,17 @@
                </div>
                <div class="row">
                  <div style="text-align: left; padding-top: 80px;" class="col-lg-3">
-                  
+                  <div class="row">
+                            
+                            
+                            <div class="col-md-6_6"> <p><i class="fas fa-bolt" style="font-size: 50px;margin-left: 5%"></i>LOW ENERGY</</p></div>
+                     
+                          </div>
+                               <hr>
+                   <ul>
+                      <li><strong>Minimal Energy Use:</strong> The power Consumption is 25% (1/4) of Competion.</li>
+                      <li><strong>No air cinditioning Rquired.</li></strong>
+                     </li>
                  </div>
                  <div class="col-lg-5">   
                    <div class="processor_img2"></div>
@@ -356,14 +366,13 @@
              
                           <div class="row">
                             
-                            <div class="col-md-6"> <p><i class="fas fa-bolt" style="font-size: 50px;"></i> LOW ENERGY</p></div>
+                           
                              <div class="col-md-6"> <p><i class="fas fa-thermometer-empty" style="font-size: 50px;"></i> LOW HEAT</p></div>
                      
                           </div>
                                <hr>
                    <ul>
-                      <li><strong>Minimal Energy Use:</strong> The power Consumption is 25% (1/4) of Competion.</li>
-                      <li><strong>No air cinditioning Rquired.</li></strong>
+                     
                       <li><strong>Superior Cast Aluminum Case:</strong> Fully Dissipate Heat, In addition To Lamp and Module.</strong></li>
                       <li><strong>Completely Encasing</strong> For Protection Against Weather:Water (IP68
                       -Highest Waterproof Rating), Ultraviolet Light, High winds, High Temperature, and Salty Marine Environments.</strong></li>
