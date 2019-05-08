@@ -288,7 +288,7 @@
         </div>
 
 
-    <div class="contact_form">
+   <!--  <div class="contact_form">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <div class="container">
@@ -305,31 +305,31 @@
                             <form action="">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <!-- <label for="fname">First Name</label> -->
+                                        
                                         <input class="textbox" type="text" id="name" name="name" placeholder="Name">
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <!-- <label for="pnumber">Phone Number</label> -->
+                                        
                                         <input class="textbox" type="text" id="pnumber" name="phone_number" placeholder="Phone Number">
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                        <!-- <label for="fname">First Name</label> -->
+                                        
                                         <input class="textbox" type="text" id="email" name="email" placeholder="Email Address">
                                     </div>
                                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                       <!--  <label for="fname">Last Name</label> -->
+                                       
                                         <input class="textbox" type="text" id="height" name="height" placeholder="Height of the Sign">
                                     </div>
                                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                        <!-- <label for="pnumber">Phone Number</label> -->
+                                       
                                         <input class="textbox" type="text" id="width" name="width" placeholder="Width of the Sign">
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <!-- <label for="fname">First Name</label> -->
+                                       
                                         <textarea class="t_textarea"  type="text" id="message" name="message" placeholder="Message..."></textarea>
                                     </div>
                                 </div>
@@ -337,14 +337,14 @@
                                     <div class="col-lg-12">
                                        <div class="row">
                                          <div class="col-md-6">
-                                             <!-- <label for="fname">First Name</label> -->
+                                             
                                                <input type="checkbox" name="vehicle1" value="Contact me ASAP, I'm interested in buying"> Contact me ASAP, I'm interested in buying<br>
-                                             <!-- <input type="checkbox" name="vehicle2" value="Car"> Request for Quotation, I am Ready to Purchase an LED Sign<br> -->
+                                             
                                          </div>
                                        </div>
                                       <div class="row">
                                         <div style="padding-top: 10px;" class="col-md-6">
-                                            <!-- <label for="fname">First Name</label> -->
+                                            
                                             <input class="form_btn" type="submit" value="Submit">
                                         </div>
                                       </div>
@@ -388,5 +388,5 @@
                  </div>
                </div>
         </div>
-    </div>
+    </div> -->
 @endsection
