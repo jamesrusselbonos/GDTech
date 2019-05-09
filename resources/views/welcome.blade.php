@@ -261,6 +261,55 @@
         </div>
 
         <div class="row">
+          <div class="grow_led">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-6"><div class="grow_img"></div></div>
+                <div class="col-lg-6">
+                 <div id="grow_txt" class="row">
+                    <h1>GROW YOUR BUSINESS WITH LED</h1>
+                    <p>"We saw new customers come into our doors almost immediately after turning on our LED sign. We ask every customer how they heard about us. Over 30% say, "I saw your LED sign and came inside", <strong>Best marketing investment I ever made!</strong></p>
+                   <div style="float: right;">
+                      <p><strong>Carlos T.</strong></br>Accurate Precious Metals</p></br>
+                        <a id="call-btn" class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Call us now1</a>
+                 </div>
+                 </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="led_stats">
+            <div class="container">
+              <div class="row">
+                <div class="row">
+                  <div class="col-lg-4">
+                    <div class="stat_img1 center"></div>
+                    <h4>IF YOUR BUSINESS MAKES $1000 PER DAY</h4>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="stat_img2 center"></div>
+                    <h4>WITH AN LED SCREEN YOU WILL ADD $500 PER DAY</h4>
+                    <P>&bull; AMOUNTS ARE AVERAGED FROM SOURCE</P>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="stat_img3 center"></div>
+                    <h4>WHICH MEANS + $182,500 IN NEW BUSINESS YEARLY</h4>
+                  </div>
+                </div>
+                <div class="row">
+                  <div style="margin-top: 30px;" class="col-lg-12">
+                    <h2>ACCORDING TO THE GOVERNMENT'S SMALL BUSINESS ADMINISTRATION, "BUSINESSES THAT CHOOSE TO USE LED SIGNAGE...TYPICALLY SEE AN <strong>INCREASE IN BUSINESS OF 15% TO 150%</strong>"</h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
           <div class="cat_feature">
             <div class="container">
               <div class="row">
@@ -407,8 +456,7 @@
                   </div>
                 </div>
               </div>
-              <div style="margin-top: 100px;" class="row">
-                <div class="col-lg-6"><div class="feature_item"></div></div>
+              <div style="margin-top: 80px;" class="row">
                 <div class="col-lg-6">
                   <div style="border: solid; border-width: 3px; border-color: #c0c0c0; text-align: center; " class="row">
                     <div>
@@ -429,6 +477,7 @@
                     </ul>
                   </div>
                 </div>
+                <div class="col-lg-6"><div class="cabinet_img"></div></div>
               </div>
             </div>
            </div>
@@ -449,20 +498,24 @@
                              <div class="cat_banner_img"></div>
                          </div>
                         <div style="margin-top: 30px;" class="col-lg-6">
-                          <h3 style="font-size: 24px;"><strong><i class="far fa-sun"></i>&nbsp; BRIGHTEST SMD LAMP ON THE MARKET</strong></h3>
-                          <ul>
-                           <li>Smaller Lamp Dimention</li>
-                           <li>No Reflection - Encapsulation</li>
-                           <li>High Efficiency Lightning</li>
-                           <li>Three Colors (RGB) In Each Resolution</li>
-                           <li>Tighter Spacing For Higher Resolution</li>
-                           <li>Controlled Production Removes Variables</li>
-                           <li>SMD Lamp Vs. DIP</li>
-                           <li>Patented Round Shapet</li>
-                           <li>Oxygen Free Encapsulation</li>
-                           <li>Multiple Module Redundancy</li>
-                                                 
-                          </ul>
+                          <div style="border: solid; border-width: 3px; border-color: #000; text-align: center;" class="row">
+                            <h3 style="font-size: 24px;"><strong><i class="fas fa-sun"></i>&nbsp; BRIGHTEST SMD LAMP ON THE MARKET</strong></h3>
+                          </div>
+                         <div class="row"> 
+                           <ul>
+                            <li>Smaller Lamp Dimention</li>
+                            <li>No Reflection - Encapsulation</li>
+                            <li>High Efficiency Lightning</li>
+                            <li>Three Colors (RGB) In Each Resolution</li>
+                            <li>Tighter Spacing For Higher Resolution</li>
+                            <li>Controlled Production Removes Variables</li>
+                            <li>SMD Lamp Vs. DIP</li>
+                            <li>Patented Round Shapet</li>
+                            <li>Oxygen Free Encapsulation</li>
+                            <li>Multiple Module Redundancy</li>
+                                                  
+                           </ul>
+                         </div>
                         </div>
                        </div>
                       </div>

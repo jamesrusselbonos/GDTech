@@ -1062,7 +1062,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
        width: 150px;
    }
    .catalog_module{
-        background-image: url("/img/slide_bg1.jpg") !important;
+      background-image: url("/img/slide_bg1.jpg") !important;
        background-size: cover;
 
        color: #c0c0c0;
@@ -1104,3 +1104,79 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
     padding-top: 30px;
     padding-bottom: 30px;
    }
+   .grow_img{
+    background-image: url("/img/businessman.png") !important;
+    background-size: cover;
+
+    width: 600px;
+    height: 600px;
+   }
+   .grow_led{
+    background-image: url("/img/bg_footer.jpg") !important;
+    background-size: cover;
+    background-position: center;
+
+    padding-top: 30px;
+
+    width: 100%;
+
+    color: #fff;
+   }
+   .grow_led p{
+    font-size: 19px;
+   }
+   #grow_txt{
+    padding-top: 80px;
+   }
+   #call-btn{
+    background-color: #FF4D00;
+    color: #fff;
+    border: none;
+   }
+   .cabinet_img{
+      background-image: url("/img/cabinet_img.png") !important;
+       background-size: cover;
+
+       height: 500px;
+       width: 500px;
+
+       margin-top: -40px;
+
+       float: right;
+  }
+  .stat_img1{
+    background-image: url("/img/stat_pic1.png") !important;
+    background-size: cover;
+
+     height: 150px;
+     width: 150px;
+  }
+  .stat_img2{
+    background-image: url("/img/stat_pic2.png") !important;
+    background-size: cover;
+
+     height: 150px;
+     width: 150px;
+  }
+  .stat_img3{
+    background-image: url("/img/stat_pic3.png") !important;
+    background-size: cover;
+
+     height: 150px;
+     width: 150px;
+  }
+  .led_stats{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    background-color: #000;
+    color: #c0c0c0;
+
+    text-align: center;
+  }
+  .led_stats p{
+    text-indent: 25px;
+  }
+  .led_stats h4{
+    margin-top: 25px;
+  }

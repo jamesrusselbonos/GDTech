@@ -49,8 +49,9 @@
                     <li class="hoverLEDBasics"><a href="/led_basic">LED Basics</a></li>
                     <li class="hoverabout"><a href="/about">About</a></li>
                     <li class=""><a href="/financing">Financing</a></li>
+                    <li class=""><a href="/contact_us">Contact Us</a></li>
                     <li class="hoverfaq"><a href="">FAQ</a></li>
-                      <li class=""><a href="/contact_us">Contact Us</a></li>
+                      
                    <!--  <li class=""><a href="/login">Login</a></li>  -->
                 </ul>
               <ul style="margin-top: 1.5%;" id="nav_links" class="nav navbar-nav navbar-right">
