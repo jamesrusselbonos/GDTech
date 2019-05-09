@@ -401,7 +401,7 @@
 }
 .image1{
 	width: 100%;
-	height: 620px;
+	height: 630px;
 
 	margin-bottom: 20px;
 
@@ -436,7 +436,7 @@
   width: 100% !important;
   height: 100% !important;
 
-  background-image: url("/img/bulb.png");
+  background-image: url("/img/img_520_290.jpg");
   background-size: cover;
   background-color: #c0c0c0;
 
@@ -446,7 +446,7 @@
   width: 100% !important;
   height: 100% !important;
 
-  background-image: url("/img/widget4.png");
+  background-image: url("/img/img_520_2902.jpg");
   background-size: cover;
  background-color: #c0c0c0;
 
@@ -521,7 +521,7 @@
   padding-top: 80px;
 }
 .carousel-inner img{
-	height: 100% !important;
+	height: 620px !important;
 }
 .carousel-caption{
 	margin-top: 200px;
@@ -959,20 +959,20 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   padding-top: 0;
 }
 #ad1_caption h1{
-  font-size: 60px;
+  font-size: 45px;
 }
 #ad_caption h1{
-  font-size: 100px;
+  font-size: 90px;
 }
 #ad_caption h2{
-  font-size: 50px;
+  font-size: 30px;
   margin-top: -10px;
 }
 .ad1_img{
-  height: 600px;
-  width: 600px;
+  height: 550px;
+  width: 550px;
 
-  margin-top: -30px;
+  margin-top: 0px;
 
   background-image: url("/img/product.png") !important;
   background-size: cover;
@@ -980,8 +980,8 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   z-index: 5;
 }
 .ad2_img{
-  height: 700px;
-  width: 700px;
+  height: 600px;
+  width: 600px;
 
   margin-top: -10px;
 
@@ -991,8 +991,8 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   z-index: 5;
 }
 .ad3_img{
-  height: 700px;
-  width: 700px;
+  height: 600px;
+  width: 600px;
 
   margin-top: -10px;
 

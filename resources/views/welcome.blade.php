@@ -20,7 +20,7 @@
       <!--     <img src="/img/slide_bg1.jpg" alt="Chania"> -->
           <div id="ad1_caption" class="carousel-caption">
           <h1 class="animated  fadeInDown delay-1s">Global Dynamic Technology</h1>
-          <h2 class="animated  fadeInDown delay-1s">BRIGHTER | SHARPER | BOLDER | BETTER</h2>
+          <h2 style="font-size: 25px;" class="animated  fadeInDown delay-1s">BRIGHTER | SHARPER | BOLDER | BETTER</h2>
           <div class="ad1_img center animated  fadeInUp delay-1s"></div>
           </div>
         </div>
@@ -33,7 +33,7 @@
                 <div class="ad2_img animated  fadeInLeft delay-1s"></div>
               </div>
               <div style="padding-top: 100px;" class="col-lg-5">
-                <h1 class="animated  fadeInRight delay-1s">+ 400 %</h1>
+                <h1 class="animated  fadeInRight delay-1s">+400%</h1>
                 <h2 class="animated  fadeInRight delay-1s">MORE COLORS</h2>
               </div>
             </div>
@@ -45,7 +45,7 @@
           <div  id="ad_caption" class="carousel-caption">
           <div class="row">
             <div style="padding-top: 100px;" class="col-lg-5">
-              <h1 class="animated  fadeInRight delay-1s">+ 40 %</h1>
+              <h1 class="animated  fadeInRight delay-1s">+40%</h1>
               <h2 class="animated  fadeInRight delay-1s">BRIGHTER</h2>
             </div>
               <div class="col-lg-6">
@@ -64,7 +64,7 @@
               </div>
               <div style="padding-top: 100px;" class="col-lg-5">
                 <h1 class="animated  fadeInRight delay-1s">SHARPER</h1>
-                <h2 style="font-size: 40px; margin-top: -10px;" class="animated  fadeInRight delay-1s">BETTER CONTRAST</h2>
+                <h2 style="font-size: 30px; margin-top: -10px;" class="animated  fadeInRight delay-1s">BETTER CONTRAST</h2>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@
            <div class="row">
             <div style="padding-top: 100px;" class="col-lg-5">
               <h1 class="animated  fadeInLeft delay-1s">ZERO</h1>
-              <h2  style="font-size: 40px; margin-top: -10px;"  class="animated  fadeInLeft delay-1s">NOISE + DISTORTION</h2>
+              <h2  style="font-size: 30px; margin-top: -10px;"  class="animated  fadeInLeft delay-1s">NOISE + DISTORTION</h2>
             </div>
               <div class="col-lg-6">
                 <div class="ad3_img animated  fadeInRight delay-1s"></div>
@@ -105,7 +105,7 @@
                  <div class="container">
                      <div class="col-lg-12">
                          <h2>Inspiring the Globe with GDTEK Technology</h2>
-                         <p>We are committed to inspiring the globe through continuous innovation. Our LED panels are made with static components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of breaking down. Enjoy beautiful, vivid, clearly displayed images on our LED panels that last longer and are more reliable.</p>
+                         <p>We are committed to inspiring the globe through continuous innovation. Our LED panels are made with ground breaking components thus consuming less power and creating less friction. As a result, our LED signs produce less heat which reduces the likelihood of malfunctions and continious maintenance. Enjoy beautiful, vivid, clearly displayed images on our LED sign technology that last longer and are more reliable.</p>
                           <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#exampleModalLong">Schedule Free Demo</a>
                      </div>
                  </div>
@@ -129,7 +129,7 @@
                            <!-- Wrapper for slides -->
                            <div style =" "class="carousel-inner">
                             <div class="item active">
-                               <img src="/img/bg2.jpg" alt="Los Angeles">
+                               <img src="/img/img_520_630.jpg" alt="Los Angeles">
                                <div class="carousel-caption">
                                   <h3></h3>
                                   <p></p>
@@ -137,20 +137,20 @@
                              </div>
 
                              <div class="item">
-                               <img src="/img/bg3.jpg" alt="Chicago">
+                               <img src="/img/img_520_6302.jpg" alt="Chicago">
                                <div class="carousel-caption">
                                   <h3></h3>
                                   <p></p>
                                 </div>
                              </div>
 
-                             <div class="item">
+                             <!-- <div class="item">
                                <img src="/img/bg2.jpg" alt="New York">
                                <div class="carousel-caption">
                                   <h3></h3>
                                   <p></p>
                                 </div>
-                             </div>
+                             </div> -->
                            </div>
 
                            <!-- Left and right controls -->
@@ -316,7 +316,7 @@
                 <div class="cat_header">
                  <div style="padding-top: 30px;" class="col-lg-12">
                    <h1>Features</h1>
-                   <h4>BEST IN THE INDUSTRY</h4>
+                   <h4>Leading The Industry</h4>
                  </div>
                 </div>
               </div>
@@ -330,13 +330,13 @@
                       <div class="feature_img1 "></div>
                     </div>
                     <div class="col-md-6">
-                      <h4><strong>UV LIGHT RESISTANT</strong></h4>
+                      <h4><strong>UV LIGHT RESISTANT TOP IN THE INDUSTRY</strong></h4>
                       <h5>Despite Prolonged Exposure To UV Light,</h5>
                       <h5>GD Tech Boards Maintain:</h5>
 
                       <ul>
                         <li><i class="fas fa-eye"></i>&nbsp; Exact Clarity Of Image</li>
-                        <li><i class="fas fa-check-circle"></i>&nbsp; Exact Clarity Of Image</li>
+                        <li><i class="fas fa-check-circle"></i>&nbsp; True Shape Of The Cabinet</li>
                       </ul>
 
                       <h5>+ Design Holds/Absorbs Near-Zero Energy</h5>
@@ -388,8 +388,8 @@
                    <ul>
                       <li>Stablized Signal Connector</li>
                       <li>Super Heat Dissipation</li>
-                      <li>Layout & Design Produced High Contrast</li>
-                      <li>Rated For All Climates</li>
+                      <li>Layout & Design Produces High Contrast</li>
+                      <li>Rated For Extreme Climates</li>
                       <li>Materials Fussion Seals Circuit</li>
                       <li>Aluminum Frame protects PCB Layout</li>
                       <li>Thermo Paste<strong> Ensure Operation Boiling Water</strong></li>
@@ -432,7 +432,7 @@
                            <ul>
                               <li>Stable Connectors</li>
                               <li><strong>Bolder Output</strong> On Grays</li>
-                              <li><strong>Increased Brightness</strong> Output</li>
+                              <li>We are <strong>The Brightest Sign Of The SMD Industry</strong></li>
                               <li>Screen Output Designed For <strong>Low Power Consumption</strong></li>
                               <li>Auto Correction Wihin Circuit</li>
                            </ul>
@@ -499,7 +499,7 @@
                          </div>
                         <div style="margin-top: 30px;" class="col-lg-6">
                           <div style="border: solid; border-width: 3px; border-color: #000; text-align: center;" class="row">
-                            <h3 style="font-size: 24px;"><strong><i class="fas fa-sun"></i>&nbsp; BRIGHTEST SMD LAMP ON THE MARKET</strong></h3>
+                            <h3 style="font-size: 24px;"><strong><i class="fas fa-sun"></i>&nbsp; BRIGHTEST SMD LAMP IN THE INDUSTRY</strong></h3>
                           </div>
                          <div class="row"> 
                            <ul>
