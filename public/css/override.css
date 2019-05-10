@@ -11,6 +11,43 @@
 	padding-top: 5px;
 	padding-bottom: 10px;
 }
+@media (max-width: 991px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+    
+}
 .navbar_hover{
 	background-color: #fff;
 	color: #000;
@@ -146,12 +183,27 @@
 	border-radius: 30px;
 	background-color: transparent;
 }
-@media only screen and (min-width : 1200px) {
-  .carousel-caption
+/*@media (max-width : 1039px;)  {
+  .ad_caption, .ad1_caption
   {
-    top: 30%;
+    margin-top: 20vw !important;
   }
-}
+  .ad1_h1{
+    font-size: 5vh !important;
+  }
+  .ad1_img{
+    height: 20vh !important;
+    width: 20vh !important;
+  }
+  .ad2_img{
+    height: 30vh !important;
+    width: 30vh !important;
+  }
+  .ad3_img{
+    height: 30vh !important;
+    width: 30vh !important;
+  }
+}*/
 .LEDBasics{
 	position: fixed;
 	top: 60px;
@@ -271,6 +323,7 @@
 #social_media li{
 	display: inline-block;
 	padding-right: 30px;
+  padding-left: 30px;
 
 	margin-top: 50px;
 	margin-bottom: 40px;
@@ -281,20 +334,23 @@
 }
 #footer_content{
 	border-bottom: 3px solid #5f5f5f;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 
 	color: #5f5f5f;
 }
 #footer_content a{
 	color: #5f5f5f;
 	text-decoration: none;
+  padding-left: 30px;
 }
 #footer_content h4{
 	color: #8a8a8a;
+  padding-left: 20px;
 
 }
 #footer_content i{
 	font-size: 18px;
+  padding-left: 20px;
 }
  #map iframe {
    width: 100%;
@@ -414,6 +470,8 @@
 
      margin-bottom: 20px;
 
+     margin-top: 20px;
+
 /*	padding-left: 20px;
 	padding-right: 20px;*/
 
@@ -523,9 +581,9 @@
 .carousel-inner img{
 	height: 620px !important;
 }
-.carousel-caption{
+/*.carousel-caption{
 	margin-top: 200px;
-}
+}*/
 /* Carousel Fading slide */
 .carousel-fade .carousel-inner { background: transparent; }
 .carousel-fade .carousel-control { z-index: 2; }  
@@ -831,7 +889,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    width: 100%;
 
     color: #000;
-    height: 500px;
+    height: auto;
    }
    .cat_banner_img{
       background-image: url("/img/product3.png") !important;
@@ -842,13 +900,13 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    }
    .gd_text{
 
-    margin-top: 50px;
+    margin-top: 30px;
 
     height: 300px;
     width: 500px;
 
-     background-image: url("/img/cat_img.png") !important;
-      background-size: cover;
+    background-image: url("/img/cat_img.png") !important;
+    background-size: contain;
    }
    .catalog_lamp{
    /* background-image: url("/img/bg.jpg") !important;*/
@@ -905,13 +963,13 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    text-align: center;
    }
    #main_Carousel{
-      height: 850px;
+      height: 100vh;
       width: 100%;
 
    }
    #main_Carousel .carousel-inner{
        width: 100%;
-      max-height: 850px !important;
+      max-height: 100vh !important;
 
       padding-bottom: 50px !important;
 
@@ -922,7 +980,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    }
     .carousel-inner .item{
        width: 100%;
-       height: 850px !important;
+       height: 100vh !important;
 
        -webkit-background-size: cover;
        -moz-background-size: cover;
@@ -955,22 +1013,58 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 #ad_caption{
   color: #383838;
 
-  margin-top: -120px;
+  /*margin-top: -10px !important*/;
   padding-top: 0;
 }
 #ad1_caption h1{
-  font-size: 45px;
+  font-size: 7vh !important;
+  margin-top: 1vw !important;
 }
+#ad1_caption h2{
+  font-size: 4vh !important;
+}
+@media (max-width: 800px) {
+    #ad1_caption h1{
+      font-size: 5vw !important;
+    }
+    #ad1_caption h2{
+      font-size: 2vw !important;
+      margin-top: -10px;
+    }
+    #ad_caption h1{
+      font-size: 5vw !important;
+    }
+    #ad_caption h2{
+      font-size: 3vw !important;
+      margin-top: -10px;
+    }
+  }
+  @media (max-width: 425px) {
+    #ad1_caption h1{
+      font-size: 7vw !important;
+    }
+    #ad1_caption h2{
+      font-size: 3vw !important;
+      margin-top: -10px;
+    }
+    #ad_caption h1{
+      font-size: 4vw !important;
+    }
+    #ad_caption h2{
+      font-size: 2vw !important;
+      margin-top: -10px;
+    }
+  }
 #ad_caption h1{
-  font-size: 90px;
+  font-size: 9vh !important;
 }
 #ad_caption h2{
-  font-size: 30px;
+  font-size: 4vh !important;
   margin-top: -10px;
 }
 .ad1_img{
-  height: 550px;
-  width: 550px;
+  height: 65vh;
+  width: 65vh;
 
   margin-top: 0px;
 
@@ -980,10 +1074,10 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   z-index: 5;
 }
 .ad2_img{
-  height: 600px;
-  width: 600px;
+  height: 65vh;
+  width: 65vh;
 
-  margin-top: -10px;
+  /*margin-top: -10px;*/
 
   background-image: url("/img/product2.png") !important;
   background-size: cover;
@@ -991,10 +1085,10 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
   z-index: 5;
 }
 .ad3_img{
-  height: 600px;
-  width: 600px;
+  height: 65vh;
+  width: 65vh;
 
-  margin-top: -10px;
+  /*margin-top: -10px;*/
 
   background-image: url("/img/product3.png") !important;
   background-size: cover;
@@ -1015,7 +1109,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 
        margin-top: 20px;
 
-       float: right;
+       /*float: right;*/
   }
  .feature_img1{
       background-image: url("/img/feature_img1.png") !important;
@@ -1074,6 +1168,8 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
     font-size: 18px;
     /*list-style-type: none;*/
     margin-top: 10px; 
+    margin-left: 30px;
+    margin-right: 30px;
    }
      .catolog_lamp li, .catolog_lamp p, .catolog_lamp ul{
     font-size: 18px;
@@ -1127,12 +1223,83 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
    }
    #grow_txt{
     padding-top: 80px;
+    padding-bottom: 50px;
+
+    padding-left: 30px;
+    padding-right: 20px;
    }
    #call-btn{
     background-color: #FF4D00;
     color: #fff;
     border: none;
    }
+   @media (max-width: 425px){
+    .grow_led p{
+      font-size: 14px;
+      padding-left: 20px;
+      padding-right: 23px;
+    }
+     #grow_txt{
+      padding-top: 20px;
+     }
+    .grow_led h1{
+      /*font-size: 14px;*/
+      padding-left: 20px;
+      padding-right: 23px;
+    }
+    #call-btn{
+      margin-left: 20px;
+    }
+    .feature_item{
+      height: 60vw !important;
+      width: 60vw !important;
+    }
+    .gd_text{
+      height: 60vw !important;
+      width: 60vw !important;
+      background-repeat: no-repeat;
+    }
+    .catalog_banner{
+      height: 200px;
+    }
+    .catalog_module li{
+      font-size: 16px;
+    }
+    .processor_img2{
+     height: 65vw !important;
+     width: 65vw !important;
+    }
+    .led_stats h2{
+      font-size: 20px;
+    }
+    .processor_img1{
+      height: 65vw !important;
+      width: 65vw !important;
+    }
+    .catalog_cabinet li{
+      font-size: 16px;
+    }
+    .cabinet_img{
+      height: 65vw !important;
+      width: 65vw !important;
+    }
+    .ad2_img{
+      height: 90vw !important;
+      width: 90vw !important;
+    }
+    .ad3_img{
+      height: 90vw !important;
+      width: 90vw !important;
+    }
+   }
+    @media (max-width: 800px){
+      .grow_img{
+        display: none;
+      }
+      .cat_banner_img{
+        display: none;
+      }
+    }
    .cabinet_img{
       background-image: url("/img/cabinet_img.png") !important;
        background-size: cover;
@@ -1140,9 +1307,9 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
        height: 500px;
        width: 500px;
 
-       margin-top: -40px;
+       margin-top: 20px;
 
-       float: right;
+       /*float: right;*/
   }
   .stat_img1{
     background-image: url("/img/stat_pic1.png") !important;

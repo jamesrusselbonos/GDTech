@@ -51,14 +51,43 @@
                     <li class=""><a href="/financing">Financing</a></li>
                     <li class=""><a href="/contact_us">Contact Us</a></li>
                     <li class="hoverfaq"><a href="">FAQ</a></li>
+                    
                       
                    <!--  <li class=""><a href="/login">Login</a></li>  -->
                 </ul>
-              <ul style="margin-top: 1.5%;" id="nav_links" class="nav navbar-nav navbar-right">
-                  <!--  <li class="fa fa-envelope ">&nbsp;&nbsp;(971) 273-7878 &nbsp;&nbsp;&nbsp;&nbsp; </li>
-                   <li><i style="font-size: 18px;" class="fa fa-envelope"></i> &nbsp;&nbsp;info@gdteckusa.com</li> -->
+              <ul id="nav_links" class="nav navbar-nav navbar-right">
+                   <!-- <li class="fa fa-envelope ">&nbsp;&nbsp;(971) 273-7878 &nbsp;&nbsp;&nbsp;&nbsp; </li>
+                   <li><i style="font-size: 18px;" class="fa fa-envelope"></i> &nbsp;&nbsp;info@gdteckusa.com</li>
                    <li style="color: #fff;"><i class="fa fa-phone"></i>&nbsp;&nbsp;(971) 273-7878&nbsp;&nbsp;&nbsp;</li>
-                    <li style="color: #fff;"><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@gdteckusa.com</li>
+                   <li style="color: #fff;"><i class="fa fa-envelope"></i>&nbsp;&nbsp;info@gdteckusa.com</li> -->
+                   @guest
+                       <li class="nav-item">
+                           <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                       </li>
+                       @if (Route::has('register'))
+                           <!-- <li class="nav-item">
+                               <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
+                           </li> -->
+                       @endif
+                   @else
+                       <li class="nav-item dropdown">
+                           <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
+                               {{ Auth::user()->name }} <span class="caret"></span>
+                           </a>
+
+                           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                               <a class="dropdown-item" href="{{ route('logout') }}"
+                                  onclick="event.preventDefault();
+                                                document.getElementById('logout-form').submit();">
+                                   {{ __('Logout') }}
+                               </a>
+
+                               <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                   @csrf
+                               </form>
+                           </div>
+                       </li>
+                   @endguest
                 </ul>
               </div>
             </div>
@@ -193,7 +222,7 @@
                  <h4>Get more information about our LED signs and click the button to inquire now</h4>
                </div>
                <div class="col-md-3">
-                 <a class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#contact_modal">Contact Us</a>
+                 <a style="background-color: red;" class="btn btn-primary btn-lg" href="#" role="button" data-toggle="modal" data-target="#contact_modal">Contact Us</a>
                </div>
              </div>
            </div>
@@ -287,10 +316,10 @@
                      <div id="footer_content" class="row">
                          <div class="col-md-3">
                              <div class="row">
-                                <a id="nav_logo_2" class="navbar-brand" href="/"></a></br>
+                                <a style="margin-left: 30px;" id="nav_logo_2" class="navbar-brand" href="/"></a></br>
                              </div>
                              <div class="row">
-                               <p>GDTech USA</p>
+                               <p style="padding-left: 30px; margin-top: 10px;">GDTech USA</p>
                              </div>
                          </div>
                          <div class="col-md-3">
@@ -325,10 +354,17 @@
                                    <i class="fa fa-phone"></i>
                                  </div>
                                  <div style="margin-left: -20px;" class="col-xs-10">
-                                   <p>(503) 400-5607</p>
+                                   <p>(971) 273-7878</p>
                                  </div>
                                </div>
-                              
+                                <div class="row">   
+                                  <div class="col-xs-2">
+                                    <i class="fa fa-envelope"></i>
+                                  </div>
+                                  <div style="margin-left: -20px;" class="col-xs-10">
+                                    <p>info@gdteckusa.com</p>
+                                  </div>
+                                </div>
                              </ul>
                          </div>
                      </div>
@@ -345,7 +381,7 @@
                                 </ul>
                               </div>
                               <div class="row">
-                                <p style="color: #5f5f5f;">Copyright 2019 Global Dynamic Technology LLC. All Rights Reserved.</p>
+                                <p style="color: #5f5f5f; padding-left: 30px; padding-right: 30px;">Copyright 2019 Global Dynamic Technology LLC. All Rights Reserved.</p>
                               </div>
                           </div>
                      </div>
@@ -453,7 +489,8 @@
              $(document).ready(function() {
                $('.carousel').carousel({
                  interval: 3000
-               })
+               });
+
              });
         </script>
         <script >

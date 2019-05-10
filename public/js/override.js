@@ -1,4 +1,3 @@
-
 $(window).scroll(function(){
  if ($(this).scrollTop() > 50) {
      $('.navbar').addClass('navbar_scroll');
@@ -160,3 +159,21 @@ $(window).ready(function(){
     }
     window.onload = deferVideo;
 });
+
+// $(document).ready(function(){
+
+//     $(window).resize(function() {
+
+//          if ($(this).width() < 1024) {
+
+//            $('.grow_img').hide();
+//            $('.cat_banner_img').hide();
+
+//          } else {
+
+//            $('.grow_img').show();
+//            $('.cat_banner_img').show();
+
+//            }
+//        });
+//     });
